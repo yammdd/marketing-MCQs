@@ -187,4 +187,33 @@ function updateStats() {
     if(wrongEl) wrongEl.innerText = scores.wrong;
 }
 
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}
+
+document.getElementById('shuffle-btn').onclick = () => {
+    if (confirm("Bạn có chắc muốn xáo trộn toàn bộ các câu hỏi và bắt đầu lại không?")) {
+        shuffleArray(allQuestions);
+        
+        answeredData = {};
+        globalWrongQueue = [];
+        scores = { correct: 0, wrong: 0 };
+        sessionCounter = 0;
+        isReviewMode = false;
+        allQuestions.forEach(q => delete q.tempAnswered);
+        currentModeList = [...allQuestions];
+        
+        document.getElementById('status-mode').innerText = "Chế độ: Bình thường";
+        document.getElementById('status-mode').classList.remove('review');
+        updateStats();
+        renderNav();
+        showQuestion(0);
+        
+        document.querySelector('.nav-grid-wrapper').scrollTop = 0;
+    }
+};
+
 init();

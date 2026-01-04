@@ -280,7 +280,7 @@
       },
       {
         "label": "D",
-        "text": "Các mục tiêu marketing, chi phi, chiến lược định vị và 3P (sản phẩm, phân phối và xúc tiễn) và một số yếu tố khác như ai là người quyết định giá..."
+        "text": "Các mục tiêu marketing, chi phi, chiến lược định vị và 3P (sản phẩm, phân phối và xúc tiến) và một số yếu tố khác như ai là người quyết định giá..."
       }
     ],
     "answer": "D"
@@ -371,7 +371,7 @@
         "text": "Không thể phân đoạn dựa vào lối sống"
       }
     ],
-    "answer": null
+    "answer": "B"
   },
   {
     "question": "Câu 18: Chọn và điền vào khoảng trống câu để hoàn chỉnh câu: \"Nhãn hiệu là …. được dùng để xác nhận sản phẩm của một người bán hay nhóm người bán và để phân biệt chủng với sản phẩm của đối thủ cạnh tranh.\"",
@@ -679,7 +679,7 @@
         "text": "Chiến lược marketing mục tiêu"
       }
     ],
-    "answer": null
+    "answer": "D"
   },
   {
     "question": "Câu 32: Đe dọa của sản phẩm thay thế là một trong những yếu tố quyết định",
@@ -1823,7 +1823,7 @@
         "text": "Chi phí marketing giảm"
       }
     ],
-    "answer": null
+    "answer": "B"
   },
   {
     "question": "Câu 84: Sản phẩm trong marketing phải bao gồm những đặc trưng sau, ngoại trừ",
@@ -3178,14 +3178,22 @@
     "options": [
       {
         "label": "A",
-        "text": "Giới C. Trưởng thành. thiệu. D. *Bão hoà."
+        "text": "Giới thiệu."
       },
       {
         "label": "B",
         "text": "Tăng trưởng."
+      },
+      {
+        "label": "C",
+        "text": "Trưởng thành."
+      },
+      {
+        "label": "D",
+        "text": "Bão hoà."
       }
     ],
-    "answer": null
+    "answer": "D"
   },
   {
     "question": "Câu 147: Đặt cửa hàng quần áo nữ trong khu nội trú sinh viên nữ là phương án lựa chọn thị trường:",
@@ -3374,14 +3382,22 @@
     "options": [
       {
         "label": "A",
-        "text": "Thị trường và kênh marketing C. Các trung gian của doanh nghiệp. marketing."
+        "text": "Thị trường và kênh marketing của doanh nghiệp."
       },
       {
         "label": "B",
-        "text": "Người cạnh tranh. D. *Công nghệ và kỹ thuật."
+        "text": "Người cạnh tranh."
+      },
+      {
+        "label": "C",
+        "text": "Các trung gian Marketing."
+      },
+      {
+        "label": "D",
+        "text": "Công nghệ và kỹ thuật."
       }
     ],
-    "answer": null
+    "answer": "D"
   },
   {
     "question": "Câu 157: Khác nhau cơ bản của quan điểm bán hàng và quan điểm marketing là:",
@@ -3520,14 +3536,22 @@
     "options": [
       {
         "label": "A",
-        "text": "Tìm kiếm thông tin. C. *Đánh giá phương án."
+        "text": "Tìm kiếm thông tin."
       },
       {
         "label": "B",
-        "text": "Phân tích thông tin D. Nhận biết nhu cầu của mình."
+        "text": "Phân tích thông tin."
+      },
+      {
+        "label": "C",
+        "text": "Đánh giá phương án."
+      },
+      {
+        "label": "D",
+        "text": "Nhận biết nhu cầu của mình."
       }
     ],
-    "answer": null
+    "answer": "C"
   },
   {
     "question": "Câu 164: Nghiên cứu marketing nhằm mục đích:",
@@ -3614,14 +3638,22 @@
     "options": [
       {
         "label": "A",
-        "text": "Thứ yếu. C. *Sơ cấp."
+        "text": "Thứ yếu."
       },
       {
         "label": "B",
-        "text": "Thăm dò. D. Thứ cấp."
+        "text": "Thăm dò."
+      },
+      {
+        "label": "C",
+        "text": "Sơ cấp."
+      },
+      {
+        "label": "D",
+        "text": "Thứ cấp."
       }
     ],
-    "answer": null
+    "answer": "C"
   },
   {
     "question": "Câu 169: Sự thoả mãn sau khi mua tuỳ thuộc vào:",
@@ -4523,7 +4555,7 @@
         "text": "Để làm phong phú thêm kho thông tin của doanh nghiệp"
       }
     ],
-    "answer": null
+    "answer": "A"
   },
   {
     "question": "Câu 210: Dữ liệu so cấp có thể thu thập được bằng cách nào trong các cách dưới đây?",
@@ -6116,14 +6148,18 @@
       },
       {
         "label": "B",
-        "text": "Co giãn thống nhất C. *Ít co giãn theo giá"
+        "text": "Co giãn thống nhất"
+      },
+      {
+        "label": "C",
+        "text": "Ít co giãn theo giá"
       },
       {
         "label": "D",
         "text": "Co giãn theo giá"
       }
     ],
-    "answer": null
+    "answer": "C"
   },
   {
     "question": "Câu 278: Khi một doanh nghiệp gặp khó khăn do cạnh tranh gay gắt hoặc do nhu cầu thị trường thay đổi quá đột ngột, không kịp ứng phó thì doanh nghiệp nên theo đuổi mục tiêu:",
@@ -6779,7 +6815,7 @@
         "text": "Phương tiện truyền thông"
       }
     ],
-    "answer": null
+    "answer": "A"
   },
   {
     "question": "Câu 306: Truyền thông Marketing khó thành công nhất khi:",

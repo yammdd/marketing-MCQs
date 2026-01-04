@@ -65,3 +65,5 @@ body { font-family: 'Segoe UI', Tahoma, sans-serif; background-color: var(--gray
 .btn { padding: 10px 20px; border-radius: 4px; border: 1px solid var(--border); cursor: pointer; font-weight: 600; }
 .btn-primary { background: var(--primary); color: white; }
 .btn-warning { background: var(--warning); color: white; border: none; }
+.btn-secondary { background: #6c757d; color: white; border: none; transition: 0.3s; }
+.btn-secondary:hover { background: #5a6268; }
