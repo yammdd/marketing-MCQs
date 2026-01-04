@@ -1,3 +1,9 @@
+const soundCorrect = new Audio('sound/true.wav');
+const soundWrong = new Audio('sound/wrong.wav');
+
+soundCorrect.volume = 0.5;
+soundWrong.volume = 0.5;
+
 let allQuestions = [];     
 let currentModeList = [];  
 let currentIdx = 0;         
@@ -54,6 +60,8 @@ function handleSelection(idx, label, element) {
     q.tempAnswered = label; 
 
     if (label === q.answer) {
+        soundCorrect.currentTime = 0;
+        soundCorrect.play();
         element.classList.add('correct');
         if (isReviewMode) {
             scores.correct++;
@@ -63,6 +71,8 @@ function handleSelection(idx, label, element) {
         }
         answeredData[q.id] = label; 
     } else {
+        soundWrong.currentTime = 0;
+        soundWrong.play();
         element.classList.add('wrong');
         if (!isReviewMode) {
             scores.wrong++;
