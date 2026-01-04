@@ -1,0 +1,5 @@
+services:
+  quiz-app:
+    build: .
+    ports:
+      - "8080:80"

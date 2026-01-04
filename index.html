@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketing MCQs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1>Ôn tập trắc nghiệm Marketing</h1>
+            <div id="status-mode" class="status-badge">Chế độ: Bình thường</div>
+        </div>
+        <div class="progress-container">
+            <div id="progress-bar" class="progress-bar"></div>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="quiz-section">
+            <div id="quiz-container">
+                <div class="card">
+                    <div class="card-header">
+                        <span id="question-number">Đang tải...</span>
+                        <span class="pts" id="points">1.0 pts</span>
+                    </div>
+                    <div class="card-body">
+                        <p id="question-text">Vui lòng chờ dữ liệu...</p>
+                        <div id="options-container"></div>
+                    </div>
+                    <div class="card-footer">
+                        <button id="prev-btn" class="btn">Trở lại</button>
+                        <button id="next-btn" class="btn btn-primary">Câu tiếp theo</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <aside class="sidebar">
+            <div class="sidebar-card">
+                <h3>Danh sách câu hỏi</h3>
+                <div class="nav-grid-wrapper">
+                    <div id="navigation-grid" class="nav-grid"></div>
+                </div>
+                <hr>
+                <div class="stats-panel">
+                    <div class="stat-item">Đúng: <strong id="correct-count" class="text-success">0</strong></div>
+                    <div class="stat-item">Sai: <strong id="wrong-count" class="text-danger">0</strong></div>
+                </div>
+                <button id="exit-review-btn" class="btn btn-warning hidden" style="width: 100%; margin-top: 10px;">Thoát Ôn tập để làm tiếp</button>
+            </div>
+        </aside>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

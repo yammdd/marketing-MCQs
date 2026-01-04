@@ -1,0 +1,7100 @@
+[
+  {
+    "question": "Câu 1: Phân đoạn thị trường dựa trên tâm lý khách hàng bao gồm các tiêu thức sau, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lòng tự hào về quyền sở hữu"
+      },
+      {
+        "label": "B",
+        "text": "Thái độ, Cá tính"
+      },
+      {
+        "label": "C",
+        "text": "Lý do mua hàng"
+      },
+      {
+        "label": "D",
+        "text": "Lối sống"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 2: Phương pháp định giá sát nhất với giá cả của người cạnh tranh là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Định giá theo lợi nhuận mục tiêu"
+      },
+      {
+        "label": "B",
+        "text": "Định giá theo thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Định giá theo giá trị cảm nhận của khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Định giá theo mức giá hiện hành"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 3: Một sản phẩm đang ở mức tiêu thụ chậm do năng lực sản xuất sản phẩm thấp, kênh tiêu thụ chưa mở rộng, khách hàng chưa biết nhiều về sản phẩm là đang ở giai đoạn nào sau đây trong chu kỳ sống (PLC) của nó?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bão hòa"
+      },
+      {
+        "label": "B",
+        "text": "Suy thoái"
+      },
+      {
+        "label": "C",
+        "text": "Tăng trưởng"
+      },
+      {
+        "label": "D",
+        "text": "Giới thiệu"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 4: Định vị thị trường là thiết kế sản phẩm và hình ảnh của doanh nghiệp nhằm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tất cả các đáp án trên đều đúng"
+      },
+      {
+        "label": "B",
+        "text": "Chiếm được một vị trí có giá trị trong tâm trí khách hằng mục tiêu."
+      },
+      {
+        "label": "C",
+        "text": "Khuyếch trương những điểm khác biệt"
+      },
+      {
+        "label": "D",
+        "text": "Chiếm được một vị trí đặc biệt trong tâm trí khách hàng mục tiêu."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 5: Sản phẩm trong marketing phải bao gồm những đặc trưng sau",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một thứ nào đó có khả năng thoả mãn nhu cầu"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả các phương án trên"
+      },
+      {
+        "label": "C",
+        "text": "Một thứ nào đó có khả năng gây chú ý và kích thích tiêu dùng"
+      },
+      {
+        "label": "D",
+        "text": "Một thứ nào đó có khả năng chào bán"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 6: Từ góc độ marketing, một sản phẩm được coi là có chất lượng tốt khi",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đáp ứng được yêu cầu của doanh nghiệp và nhà quản lý"
+      },
+      {
+        "label": "B",
+        "text": "Tuân theo tiêu chuẩn chất lượng đã qui định sẵn"
+      },
+      {
+        "label": "C",
+        "text": "Sản xuất theo đúng thiết kế sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Khi khách hàng nói rằng sản phẩm có chất lượng tốt"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 7: Lợi ích bổ sung của một sản phẩm được hiểu là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lợi ích tăng thêm do sản phẩm và dịch vụ bổ sung và sản phẩm sẽ có giá trị cao (bán được mức giá cao) cho khách hàng nếu có lợi ích này."
+      },
+      {
+        "label": "B",
+        "text": "Lợi ích tăng thêm do sản phẩm và dịch vụ bổ sung và mọi khách hàng đều cần lợi ích bổ sung này, nhiều khi còn cần hơn lợi ích cót lõi"
+      },
+      {
+        "label": "C",
+        "text": "Lợi ích tăng thêm do sản phẩm và dịch vụ bổ sung và luôn luồn cần thiết với mọi đối tượng khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Lợi ích tăng thêm do sản phẩm và dịch vụ bổ sung và cần có trong một sản phẩm nhưng chỉ có ý nghĩa với từng khách hàng cụ thể"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 8: Điều nào sau đây cho thấy bao gói hàng hoá trong điều kiện kinh doanh hiện nay là cần thiết, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự phát triển của hệ thống cửa hàng tự phục vụ, tự chọn hàng hoá khi mua của khách hàng"
+      },
+      {
+        "label": "B",
+        "text": "Bao gói sẽ làm tăng giá trị sử dụng của hàng hoá"
+      },
+      {
+        "label": "C",
+        "text": "Khách hàng sẵn sàng trả nhiều tiền hơn khi mua hàng hoá miễn là nó tiện lợi và sang trọng hơn"
+      },
+      {
+        "label": "D",
+        "text": "Bao gói góp phần tạo hình ảnh về doanh nghiệp và nhãn hiệu hàng hoá, tạo khả năng và ý niệm về sự cải tiến hàng hoá"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 9: Có thể khẳng định rằng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing khác biệt với hoạt động bán hàng."
+      },
+      {
+        "label": "B",
+        "text": "Marketing và bán hàng là hai thuật ngữ khác biệt nhau."
+      },
+      {
+        "label": "C",
+        "text": "Marketing và bán hàng là hai thuật ngữ đồng nghĩa"
+      },
+      {
+        "label": "D",
+        "text": "Bán hàng bao hàm marketing"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 10: Công việc nào sau đây nhà marketing không nên tiến hành nếu sản phẩm đang ở giai đoạn tăng trưởng trong chu kỳ sống (PLC) của nó?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tiếp tục thông tin mạnh mẽ về hàng hoá cho công chúng"
+      },
+      {
+        "label": "B",
+        "text": "Đánh giá và lựa chọn lại các kênh phân phối"
+      },
+      {
+        "label": "C",
+        "text": "Giữ và nâng cao chất lượng sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Giữ nguyên hoặc tăng chi phí kích thích tiêu thụ"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 11: Thông tin thứ cấp thường có thể thu thập được",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chính xác hơn thông tin sơ cấp"
+      },
+      {
+        "label": "B",
+        "text": "Nhanh và rẻ hơn thông tin sơ cấp"
+      },
+      {
+        "label": "C",
+        "text": "Qua điều tra khách hàng và các nguồn tài liệu"
+      },
+      {
+        "label": "D",
+        "text": "Qua điều tra khách hàng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 12: Nếu chi phí sản xuất sản phẩm của doanh nghiệp cao hơn đối thủ cạnh tranh, doanh nghiệp khó thành công khi",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cạnh tranh về giá"
+      },
+      {
+        "label": "B",
+        "text": "Cạnh tranh về chất lượng."
+      },
+      {
+        "label": "C",
+        "text": "Cạnh tranh về giá và chất lượng"
+      },
+      {
+        "label": "D",
+        "text": "Hoàn toàn có thể cạnh tranh được"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 13: Các yếu tố bên trong ảnh hưởng tới quyết định về giá của doanh nghiệp bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chiến lược định vị và 3P (sản phẩm, phân phối và xúc tiến)"
+      },
+      {
+        "label": "B",
+        "text": "Các mục tiêu marketing và chi phi"
+      },
+      {
+        "label": "C",
+        "text": "Các mục tiêu marketing, chi phi, chiến lược định vị và 3P (sản phẩm, phân phối và xúc tiến)"
+      },
+      {
+        "label": "D",
+        "text": "Các mục tiêu marketing, chi phi, chiến lược định vị và 3P (sản phẩm, phân phối và xúc tiễn) và một số yếu tố khác như ai là người quyết định giá..."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 14: Một chu kỳ sống lý tưởng có các đặc trưng sau, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giai đoạn bảo hoà dài"
+      },
+      {
+        "label": "B",
+        "text": "Giai đoạn giới thiệu ngắn."
+      },
+      {
+        "label": "C",
+        "text": "Giai đoạn tăng trưởng ngắn"
+      },
+      {
+        "label": "D",
+        "text": "Giai đoạn tăng trưởng dài."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 15: Chiến lược giá nào sau đây đúng với chiến lược giá phân biệt theo thời gian cao điểm và thấp điểm?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá vé tàu hoả cho nhà kinhdoanh và cho sinh viên"
+      },
+      {
+        "label": "B",
+        "text": "Giá một cốc cà phê tại “quán cóc’ và tại khách sạn Melia"
+      },
+      {
+        "label": "C",
+        "text": "Giá vé máy bay hạng Business và Economy"
+      },
+      {
+        "label": "D",
+        "text": "Giá cước điện thoại lúc 16 giờ và lúc 24 giờ"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 16: Để định vị sản phẩm trên thị trường, thị trường doanh nghiệp cần:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giảm chi phí để tăng lợi nhuận."
+      },
+      {
+        "label": "B",
+        "text": "Làm cho sản phẩm của doanh nghiệp khác biệtvới sản phẩm cạnh tranh."
+      },
+      {
+        "label": "C",
+        "text": "Làm cho sản phẩm có chất lượng cao hơn."
+      },
+      {
+        "label": "D",
+        "text": "Giảm giá bán sản phẩm."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 17: Những nhóm người có lối sống khác nhau mang lại cho các nhà marketing",
+    "options": [
+      {
+        "label": "A",
+        "text": "Những đoạn thị trường tương đồng."
+      },
+      {
+        "label": "B",
+        "text": "Những đoạn thị trường phân biệt"
+      },
+      {
+        "label": "C",
+        "text": "Những đoạn thị trường tổng thể"
+      },
+      {
+        "label": "D",
+        "text": "Không thể phân đoạn dựa vào lối sống"
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 18: Chọn và điền vào khoảng trống câu để hoàn chỉnh câu: \"Nhãn hiệu là …. được dùng để xác nhận sản phẩm của một người bán hay nhóm người bán và để phân biệt chủng với sản phẩm của đối thủ cạnh tranh.\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Từ ngữ, thuật ngữ, biểu trưng, hình vẽ hoặc và sự phối hợp giữa chúng"
+      },
+      {
+        "label": "B",
+        "text": "Thương hiệu của hàng hóa"
+      },
+      {
+        "label": "C",
+        "text": "Tên gọi, thuật ngữ, biểu trưng, hình về hoặc sự phối hợp giữa chúng"
+      },
+      {
+        "label": "D",
+        "text": "Từ ngữ, thuật ngữ, biểu trưng, hình vẽ và sự phối hợp giữa chúng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 19: Doanh nghiệp \"General Motor\" chuyên sản xuất các loại ô tô, các loại ô tô của doanh nghiệp được gọi là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các cách gọi trên đều sai"
+      },
+      {
+        "label": "B",
+        "text": "Chủng loại sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Danh mục sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Nhóm chủng loại sản phẩm"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 20: Để tim kiếm đoạn thị trường có hiệu quả, việc phân đoạn thị trường cần đảm bảo một số yêu cầu cơ bản sau, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có tính khả thi"
+      },
+      {
+        "label": "B",
+        "text": "Đo lường được và có quy mô đủ lớn"
+      },
+      {
+        "label": "C",
+        "text": "Không có sự khác biệt giữa các đoạn thị trường"
+      },
+      {
+        "label": "D",
+        "text": "Có thể phân biệt được"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 21: Động cơ của người mua được hiểu là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hành vi mang tính định hướng"
+      },
+      {
+        "label": "B",
+        "text": "Là nhu cầu đã trở nên bức thiết mà con người phải hành động để thoả mãn."
+      },
+      {
+        "label": "C",
+        "text": "Là một loại nhu cầu ở thứ hạng cao."
+      },
+      {
+        "label": "D",
+        "text": "Là một trạng thái kích thích của môi trường."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 22: Phân đoạn thị trường dựa trên hành vi của khách hàng bao gồm các tiêu thức, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự chung thành"
+      },
+      {
+        "label": "B",
+        "text": "Động cơ"
+      },
+      {
+        "label": "C",
+        "text": "Lý do mua hàng"
+      },
+      {
+        "label": "D",
+        "text": "Lợi ích mua hàng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 23: Hàng điện tử thông dụng được xếp vào nhóm \"Sản phẩm lâu bền, hữu hình\" là phân loại sản phẩm",
+    "options": [
+      {
+        "label": "A",
+        "text": "Theo thời gian và hình thái tồn tại"
+      },
+      {
+        "label": "B",
+        "text": "Theo thói quen mua hàng"
+      },
+      {
+        "label": "C",
+        "text": "Theo trạng thái tồn tại"
+      },
+      {
+        "label": "D",
+        "text": "Theo công dụng sản phẩm"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 24: Công viên nước Hồ Tây giảm giá vé cho các đoàn học sinh giỏi vào chơi là đã áp dụng kiểu chiến lược",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá phân biệt"
+      },
+      {
+        "label": "B",
+        "text": "Chiết giá thương mại"
+      },
+      {
+        "label": "C",
+        "text": "Giá trọn gói"
+      },
+      {
+        "label": "D",
+        "text": "Giá hai phần"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 25: Khác nhau cơ bản của quan điểm bán hàng và quan điểm marketing là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bán hàng nhằm mục tiêu đạt lợi nhuận nhờ tăng lượng bán."
+      },
+      {
+        "label": "B",
+        "text": "Bán hàng bắt đầu từ nghiên cứu nhu cầu của khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Bán hàng tập trung vào sự hiểu biết nhu cầu của khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Bán hàng sử dụng công cụ marketing -mix"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 26: Phân đoạn thị trường theo cơ sở địa lý bao gồm các tiêu thức sau, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mật độ dân cư"
+      },
+      {
+        "label": "B",
+        "text": "Khí hậu."
+      },
+      {
+        "label": "C",
+        "text": "Quy mô gia đình"
+      },
+      {
+        "label": "D",
+        "text": "Vùng miền"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 27: Thị trường mục tiêu của doanh nghiệp là đọan thị trường:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp đang cạnh tranh với những người cạnh tranh"
+      },
+      {
+        "label": "B",
+        "text": "Doanh nghiệp lựa chọn hướng mọi nỗ lực marketing vào."
+      },
+      {
+        "label": "C",
+        "text": "Doanh nghiệp đang bán sản phẩm của mình."
+      },
+      {
+        "label": "D",
+        "text": "Doanh nghiệp đang có doanh thu và lợi nhuận cao"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 28: Khái niệm sản phẩm theo quan điểm của marketing liên quan đến",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bất cứ cái gì có thể marketing."
+      },
+      {
+        "label": "B",
+        "text": "Bất cứ cái gì mang lại lợi ích cho khách hàng và có thể đem ra chào bán trên thị trường, thu hút sự chú ý mua sắm và sử dụng của khách hàng."
+      },
+      {
+        "label": "C",
+        "text": "Bất cứ cái gì khách hàng có thể mua."
+      },
+      {
+        "label": "D",
+        "text": "Bất cứ cái gì mang lại lợi ích cho khách hàng."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 29: Phân loại hàng tiêu dùng thường căn cứ vào:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chu kỳ sống của chúng."
+      },
+      {
+        "label": "B",
+        "text": "Đối tượng khách hàng mua."
+      },
+      {
+        "label": "C",
+        "text": "Giá cả của hàng hóa."
+      },
+      {
+        "label": "D",
+        "text": "Mức độ cấp thiết của nhu cầu."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 30: Sự cân đối lợi nhuận của doanh nghiệp, thoả mãn nhu cầu của khách hàng và lợi ích xã hội là một đòi hỏi đối với nhà marketing theo quan điểm",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing định hướng sản xuất."
+      },
+      {
+        "label": "B",
+        "text": "Marketing định hướng thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Marketing đạo đức xã hội."
+      },
+      {
+        "label": "D",
+        "text": "Marketing định hướng sản phẩm"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 31: Chiến lược marketing của doanh nghiệp hướng tới một nhóm người tiêu dùng thì được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chiến lược marketing tiêu dùng"
+      },
+      {
+        "label": "B",
+        "text": "Chiến lược marketing củng cố thị trường nội địa."
+      },
+      {
+        "label": "C",
+        "text": "Chiến lược marketing nhằm thúc đẩy bán lẻ"
+      },
+      {
+        "label": "D",
+        "text": "Chiến lược marketing mục tiêu"
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 32: Đe dọa của sản phẩm thay thế là một trong những yếu tố quyết định",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đoạn thị trường đó có hấp dẫn không?"
+      },
+      {
+        "label": "B",
+        "text": "Đoạn thị trường đó có mang lại doanh thu không?"
+      },
+      {
+        "label": "C",
+        "text": "Đoạn thị trường đó có qui mô như thế nào?"
+      },
+      {
+        "label": "D",
+        "text": "Đoạn thị trường đó có phù hợp với mục tiêu của doanh nghiệp không?"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 33: Chọn một đoạn dưới đây để điền vào phần trống trong khái niệm \" là tập hợp các đơn vị sản phẩm do một người bán cụ thể đem chào bán cho người mua”",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bề rộng chủng loại sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Bề sâu chủng loại sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Danh mục sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Chủng loại sản phẩm"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 34: Khi quyết định cung cấp dịch vụ sản phẩm, người làm marketing nên",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xem xét năng lực của nhà cung cấp"
+      },
+      {
+        "label": "B",
+        "text": "Xem xét yêu cầu về dịch vụ của khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Xem xét loại sản phẩm cung ứng ra thị trường"
+      },
+      {
+        "label": "D",
+        "text": "Xem xét lợi nhuận của dịch vụ sản phẩm mang lại"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 35: Môi trường marketing vi mô bao gồm các yếu tố sau, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người cạnh tranh"
+      },
+      {
+        "label": "B",
+        "text": "Các trung gian marketing."
+      },
+      {
+        "label": "C",
+        "text": "Thị trường và kênh marketing của doanh nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Công nghệ và kỹ thuật"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 36: Đặt cho sản phẩm của doanh nghiệp những nhãn hiệu riêng biệt có ưu điểm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cung cấp thông tin riêng về sự khác biệt của các loại sản phẩm và ràng buộc uy tín của doanh nghiệp với một sản phẩm cụ thể."
+      },
+      {
+        "label": "B",
+        "text": "Cung cấp thông tin riêng về sự khác biệt của các loại sản phẩm và không ràng buộc uy tín của doanh nghiệp với một sản phẩm cụ thể"
+      },
+      {
+        "label": "C",
+        "text": "Giảm chi phí quảng cáo khi tung một sản phẩm mới ra thị trường"
+      },
+      {
+        "label": "D",
+        "text": "Giảm chi phí quảng cáo và cung cấp thông tin riêng về sự khác biệt của các loại sản phẩm khi tung một sản phẩm mới ra thị trường"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 37: Marketing mục tiêu được hiểu là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nghiên cứu và tìm cách thoả mãn nhu cầu của khách hàng trên cơ sở bảo đảm lợi ích khách hàng và mục tiêu của doanh nghiệp."
+      },
+      {
+        "label": "B",
+        "text": "Tập trung sản xuất ra sản phẩm và tìm cách bán chúng."
+      },
+      {
+        "label": "C",
+        "text": "Kích thích nhu cầu mua sắm của khách hàng để bán hàng"
+      },
+      {
+        "label": "D",
+        "text": "Hoàn thiện sản phẩm để đáp ứng nhu cầu của khách hàng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 38: Lợi nhuận của sản phẩm thường đạt tới đỉnh ở gần cuối giai đoạn nào trong chu kỳ sống?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tăng trưởng"
+      },
+      {
+        "label": "B",
+        "text": "Trưởng thành"
+      },
+      {
+        "label": "C",
+        "text": "Bão hoà"
+      },
+      {
+        "label": "D",
+        "text": "Giới thiệu."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 39: Nghiên cứu chu kỳ sống sản phẩm có ý nghĩa nào sau đây đối với người làm marketing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tăng hiệu quả kinh doanh"
+      },
+      {
+        "label": "B",
+        "text": "Lập kế hoạch kinh doanh của doanh nghiệp."
+      },
+      {
+        "label": "C",
+        "text": "Chuẩn bị nguồn tài chính cho sản xuất sản phẩm mới."
+      },
+      {
+        "label": "D",
+        "text": "Phối hợp có hiệu quả các bộ phận của chiến lược marketing – mix và thực hiện chiến lược liên kết sản phẩm với thị trường có hiệu quả."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 40: Trao đổi không thể xảy ra được nếu thiếu các điều kiện sau đây, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các bên được tự do trao đổi."
+      },
+      {
+        "label": "B",
+        "text": "Hai bên đều có khả năng thực hiện hành vi trao đổi."
+      },
+      {
+        "label": "C",
+        "text": "Hai bên được một bên nào đó thúc đẩy trao đổi."
+      },
+      {
+        "label": "D",
+        "text": "Có hai bên có những vật có giá trị đối với bên kia và có ý định trao đổi."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 41: Điều nào sau đây đúng với nhiệm vụ của nhà marketing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Làm việc với các nhà sản xuất để mua hàng hóa/ dịch vụ"
+      },
+      {
+        "label": "B",
+        "text": "Hiểu được những gì xảy ra trong “hộp đen ý thức người mua”"
+      },
+      {
+        "label": "C",
+        "text": "Thực hiện khuyến mại liên tục để kích thích người mua"
+      },
+      {
+        "label": "D",
+        "text": "Thiết kế sản phẩm đáp ứng nhu cầu của khách hàng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 42: Mục tiêu đảm bảo sống sót có nghĩa là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đặt một mức giá có thể thấp hơn tổng chi phí sản xuất nhưng bắt buộc phải cao hơn chi phí biến đổi"
+      },
+      {
+        "label": "B",
+        "text": "Có thể đặt giá thấp hơn tổng chi phí sản xuất"
+      },
+      {
+        "label": "C",
+        "text": "Cả A, B và C"
+      },
+      {
+        "label": "D",
+        "text": "Đặt mức giá thấp nhất có thể, chỉ cần không lỗ"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 43: Các tiêu chuẩn đánh giá để lựa chọn thị trường mục tiêu cần dựa vào các tiêu thức sau, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Qui mô và tăng trưởng của thị trường."
+      },
+      {
+        "label": "B",
+        "text": "Ý đồ của lãnh đạo doanh nghiệp"
+      },
+      {
+        "label": "C",
+        "text": "Sự hấp dẫn của thị trường"
+      },
+      {
+        "label": "D",
+        "text": "Mục tiêu và khả năng của doanh nghiệp"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 44: Đoạn thị trường có hiệu quả được hiểu là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một nhóm khách hàng mà doanh nghiệp có khả năng đáp ứng nhu cầu của họ"
+      },
+      {
+        "label": "B",
+        "text": "Một nhóm khách hàng mà doanh nghiệp có khả năng đáp ứng mong muốn của họ"
+      },
+      {
+        "label": "C",
+        "text": "Có quy mô đủ lớn để tạo ra dòng tiền thu lớn hơn dòng tiền chi cho doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Bao gồm cả ba điều kiện trên."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 45: Quyết định về giá sản phẩm sản xuất trong nước xuất khẩu ra thị trường nước ngoài cần lưu ý nhân tố nào nhất trong các các nhân tố sau",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chi phí thường rất khác nhau giữa các thị trường"
+      },
+      {
+        "label": "B",
+        "text": "Giá bán phải dựa trên giá nội địa"
+      },
+      {
+        "label": "C",
+        "text": "Nhu cầu và chi phí khác nhau ở các đoạn thị trường khác nhau"
+      },
+      {
+        "label": "D",
+        "text": "Nhu cầu thường khác nhau trên các đoạn thị trường"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 46: Tại sao trong marketing bao bì lại trở nên quan trọng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Do sự phát triển của hệ thống các cửa hàng tự động, các siêu thị, do thu nhập của khách hàng tăng và do bao bì tạo nên ý niệm về đổi mới sản phẩm, do bao bì bảo vệ hàng hoá an toàn về số lượng và chất lượng"
+      },
+      {
+        "label": "B",
+        "text": "Do khách hàng ngày càng trở nên khó tính và do bao bì tạo nên ý niệm về đổi mới sản phẩm, góp phân xây dựng hình ảnh sản phẩm và doanh nghiệp"
+      },
+      {
+        "label": "C",
+        "text": "Do sự phát triển của hệ thống các cửa hàng tự động, các siêu thị, do thu nhập của khách hàng tăng và do bao bì tạo nên ý niệm về đổi mới sản phẩm, góp phân xây dựng hình ảnh sản phẩm và doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Do bao bì có chức năng bảo vệ, xúc tiến, mang vác, sẵn sàng, cân đối, giới thiệu và duy trì sản phẩm"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 47: Môi trường marketing của một doanh nghiệp bao gồm",
+    "options": [
+      {
+        "label": "A",
+        "text": "Những nhân tố có thể kiểm soát được"
+      },
+      {
+        "label": "B",
+        "text": "Những nhân tố bên ngoài"
+      },
+      {
+        "label": "C",
+        "text": "Cả nhân tố nội bộ và nhân tố bên ngoài"
+      },
+      {
+        "label": "D",
+        "text": "Những nhân tố nội bộ"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 48: Thông tin sơ cấp có thể thu thập theo các phương pháp sau, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan sát."
+      },
+      {
+        "label": "B",
+        "text": "Điều tra"
+      },
+      {
+        "label": "C",
+        "text": "Thu thập thông tin từ báo cáo của các cuộc nghiên cứu trước."
+      },
+      {
+        "label": "D",
+        "text": "Thực nghiệm."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 49: Điều nào sau đây đúng với chủng loại hàng hoá?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là một nhóm hàng hoá có liên quan chặt chẽ với nhau do một người bản cụ thể đem chảo bản cho người mua."
+      },
+      {
+        "label": "B",
+        "text": "Là một nhóm hàng hoá có liên quan chặt chẽ với nhau và được doanh nghiệp chọn để tổ chức sản xuất và đưa ra thị trường."
+      },
+      {
+        "label": "C",
+        "text": "Là tập hợp các nhóm chủng loại hàng hoá và các đơn vị hàng hoả do một người bán cụ thể đem chào bản cho người mua."
+      },
+      {
+        "label": "D",
+        "text": "Là một nhóm hàng hoá có liên quan chặt chẽ với nhau do giống nhau về chức năng hay do bán chung cho cùng một nhóm khách hàng, hay cùng một kiểu phân phối, hay cùng một dãy giá."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 50: Năm lực lượng cạnh tranh trên một thị trường ngành của Michael Porter là đối thủ cạnh tranh tiềm ẩn, đối thủ cạnh tranh trong ngành, sản phẩm thay thế, khách hàng và nhà cung cấp được các doanh nghiệp sử dụng để",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xác định mức độ hấp dẫn của đoạn thị trường"
+      },
+      {
+        "label": "B",
+        "text": "Xác định mức độ cạnh tranh trong ngành"
+      },
+      {
+        "label": "C",
+        "text": "Hoạch định chính sách marketing hỗn hợp"
+      },
+      {
+        "label": "D",
+        "text": "Định vị sản phẩm"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 51: Có thể khẳng định rằng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bản hàng là một khâu của hoạt động của marketing"
+      },
+      {
+        "label": "B",
+        "text": "Marketing và quảng cáo là hai hoạt động đồng nhất"
+      },
+      {
+        "label": "C",
+        "text": "Marketing và bán hàng là hai hoạt động đồng nhất"
+      },
+      {
+        "label": "D",
+        "text": "Marketing và tiếp thị là hai hoạt động đồng nhất"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 52: Sự hài lòng của khách hàng sau khi sử dụng hàng hóa tùy thuộc vào:",
+    "options": [
+      {
+        "label": "A",
+        "text": "So sánh giữa giá trị tiêu dùng và kỳ vọng về sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "So sánh giữa giá trị tiêu dùng và sự hoàn thiện của sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Kỳ vọng của người tiêu dùng về sản phẩm đó"
+      },
+      {
+        "label": "D",
+        "text": "Giá của hàng hóa đó cao hay thấp"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 53: Dựa vào nhu cầu tự nhiên của con người, nhà kinh doanh sẽ xác định được.",
+    "options": [
+      {
+        "label": "A",
+        "text": "mong muốn của từng người hoặc một tập hợp người."
+      },
+      {
+        "label": "B",
+        "text": "một chủng loại sản phẩm để đáp ứng một loại nhu cầu"
+      },
+      {
+        "label": "C",
+        "text": "các thông số và đặc tinh cụ thể của sản phẩm mà thị trường cần"
+      },
+      {
+        "label": "D",
+        "text": "khả năng thanh toán của khách hàng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 54: Tất cả những điều sau đây có thể buộc doanh nghiệp phải giảm giá bán sản phẩm, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự trung thành của khách hàng với thương hiệu sản phẩm giảm sút"
+      },
+      {
+        "label": "B",
+        "text": "Thực hiện phương pháp quản lý chi phí thấp"
+      },
+      {
+        "label": "C",
+        "text": "Giảm bớt thị phần trong thời kỳ kinh tế bị suy thoái"
+      },
+      {
+        "label": "D",
+        "text": "Dư thừa khả năng sản xuất sản phẩm"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 55: Đối với hoạt động kinh doanh của doanh nghiệp, marketing có vai trò:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đảm bảo đầy đủ, kịp thời nguồn tài chính cần thiết cho hoạt động sản xuất và tác nghiệp."
+      },
+      {
+        "label": "B",
+        "text": "tăng giá trị gia tăng cho doanh nghiệp."
+      },
+      {
+        "label": "C",
+        "text": "Thu hút và giữ người lao động giỏi cho doanh nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Đảm bảo cho hoạt động kinh doanh của doanh nghiệp hướng theo thị trường."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 56: Phương pháp định giá dựa vào chi phí có nhược điểm cơ bản nhất là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chi phí sản xuất tăng giảm ở các mức sản lượng khác nhau"
+      },
+      {
+        "label": "B",
+        "text": "Doanh nghiệp có thể bị lỗ."
+      },
+      {
+        "label": "C",
+        "text": "Không tính đến nhu cầu của thị trường"
+      },
+      {
+        "label": "D",
+        "text": "Chi phí cố định trung bình giảm khi sản phẩm sản xuất tăng"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 57: Một đoạn thị trường sẽ được đánh giá là kém hấp dẫn nếu:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp dễ dàng thâm nhập."
+      },
+      {
+        "label": "B",
+        "text": "Người mua ít có khả năng chi phối về giá"
+      },
+      {
+        "label": "C",
+        "text": "Sự gia nhập của các đối thủ mới khá dễ dàng."
+      },
+      {
+        "label": "D",
+        "text": "Khó có khả năng thay thế sản phẩm"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 58: Thông tin thứ cấp có thể thu thập từ các nguồn sau, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bảo cáo lỗ, lãi của doanh nghiệp."
+      },
+      {
+        "label": "B",
+        "text": "Các cuộc phỏng vấn khách hàng."
+      },
+      {
+        "label": "C",
+        "text": "Báo cáo của các cuộc nghiên cứu trước."
+      },
+      {
+        "label": "D",
+        "text": "Các ấn phẩm của cơ quan nhà nước"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 59: Trong trường hợp nào sau đây thì doanh nghiệp phải chấp nhận định giá sản phẩm thấp hơn chi phí sản xuất",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dẫn đầu về thị phần"
+      },
+      {
+        "label": "B",
+        "text": "Bảo đảm sống sót."
+      },
+      {
+        "label": "C",
+        "text": "Gặt hái nhanh."
+      },
+      {
+        "label": "D",
+        "text": "Dẫn đầu về chất lượng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 60: Điều nào sau đây đúng với danh mục hàng hoá?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là một nhóm hàng hoá có liên quan chặt chẽ với nhau do giống nhau về chức năng hay do bán chung cho cùng một nhóm khách hàng, hay cùng một kiểu phân phổi, hay cùng một dãy giá"
+      },
+      {
+        "label": "B",
+        "text": "Là tập hợp các nhóm chủng loại hàng hoá và các đơn vị hàng hoá do một người bán cụ thể đem chào bán cho người mua"
+      },
+      {
+        "label": "C",
+        "text": "Là một nhóm hàng hoá có liên quan chặt chẽ với nhau do một người bán cụ thể đem chào bán cho người mua"
+      },
+      {
+        "label": "D",
+        "text": "Là một nhóm hàng hoá cổ liên quan chặt chẽ với nhau và được doanh nghiệp chọn để tổ chức sản xuất và đưa ra thị trưởng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 61: Định nghĩa marketing cổ điển cho thấy",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing là hướng luồng hàng hoá và dịch vụ từ nơi sản xuất đến nơi tiêu dùng"
+      },
+      {
+        "label": "B",
+        "text": "Marketing là nghiên cứu nhu cầu của khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Marketing là sự dự đoán, quản lý và thoả mãn nhu cầu thông qua trao đổi"
+      },
+      {
+        "label": "D",
+        "text": "Marketing là thoả mãn nhu cầu của khách hàng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 62: Chiến lược marketing tập trung được hiểu là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xây dựng nhiều chiến lược marketing - mix cho thị trường tổng thể"
+      },
+      {
+        "label": "B",
+        "text": "Xây dựng một chiến lược marketing - mix duy nhất cho các nhóm khách hàng khác nhau"
+      },
+      {
+        "label": "C",
+        "text": "Xây dựng một chiến lược marketing - mix cho một số thị trường tổng thể"
+      },
+      {
+        "label": "D",
+        "text": "Xây dựng các chiến lược marketing - mix khác nhau cho các đoạn thị trường tổng thể"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 63: Chiến lược marketing phân biệt được hiểu là việc:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xây dựng một chiến lược marketing - mix cho các đoạn thị trường khác nhau"
+      },
+      {
+        "label": "B",
+        "text": "Xây dựng các chiến lược marketing - mix khác nhau cho các đoạn thị trường khác nhau"
+      },
+      {
+        "label": "C",
+        "text": "Xây dựng một chiến lược marketing - mix cho tất cả các đoạn thị trường khác nhau"
+      },
+      {
+        "label": "D",
+        "text": "Xây dựng các chiến lược marketing - mix khác nhau cho các đoạn thị trường tổng thể"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 64: Nghiên cứu chu kỳ sống sản phẩm có ý nghĩa nào sau đây đối với người làm marketing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lập kế hoạch kinh doanh của doanh nghiệp"
+      },
+      {
+        "label": "B",
+        "text": "Tăng hiệu quả kinh doanh"
+      },
+      {
+        "label": "C",
+        "text": "Chuẩn bị nguồn tài chính cho sản xuất sản phẩm mới."
+      },
+      {
+        "label": "D",
+        "text": "Phối hợp có hiệu quả các bộ phận của marketing –mix và thực hiện chiến lược liên kết sản phẩm với thị trường có hiệu quả."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 65: Khi doanh nghiệp muốn có một tỷ lệ lợi nhuận nhất định trên vốn đầu tư, cần sử dụng phương pháp",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xác định giá dựa vào mức giá hiện hành"
+      },
+      {
+        "label": "B",
+        "text": "Xác định giá thep phương pháp hoà vốn"
+      },
+      {
+        "label": "C",
+        "text": "Xác định giá từ chi phí trung bình"
+      },
+      {
+        "label": "D",
+        "text": "Xác định giá theo lợi nhuận mục tiêu"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 66: Theo góc độ người bán, giá là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Khoản tiền mà người bán thu được khi bán một sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Cả A và B."
+      },
+      {
+        "label": "C",
+        "text": "Chính sách duy nhất mang lại doanh thu cho doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Có xu hưởng đi lên"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 67: Sự cân đối lợi nhuận của doanh nghiệp, thoả mãn nhu cầu của khách hàng và lợi ích xã hội là một đòi hỏi đối với nhà marketing theo quan điểm",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing định hưởng thị trường."
+      },
+      {
+        "label": "B",
+        "text": "Marketing định hướng sản phẩm."
+      },
+      {
+        "label": "C",
+        "text": "Marketing định hướng sản xuất."
+      },
+      {
+        "label": "D",
+        "text": "Marketing đạo đức xã hội."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 68: Đánh giá để lựa chọn thị trường mục tiêu cần dựa vào các tiêu thức sau, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ý đồ của lãnh đạo doanh nghiệp"
+      },
+      {
+        "label": "B",
+        "text": "Mục tiêu và khả năng của doanh nghiệp"
+      },
+      {
+        "label": "C",
+        "text": "Qui mô và tăng trưởng của thị trường."
+      },
+      {
+        "label": "D",
+        "text": "Sự hấp dẫn của thị trường"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 69: Theo quan điểm marketing, thị trường tiềm năng là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là những khách hàng đang và sẽ mua sản phẩm của doanh nghiệp."
+      },
+      {
+        "label": "B",
+        "text": "Là thị trường hiện tại của doanh nghiệp cộng với thị trường mở rộng mới của doanh nghiệp"
+      },
+      {
+        "label": "C",
+        "text": "Là tổng thể những người mua sản phẩm của doanh nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Là tập hợp những người chưa mua sản phẩm của doanh nghiệp và đang mua sản phẩm của người cạnh tranh"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 70: Những yếu tố nào không thuộc sản phẩm hiện thực:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhãn hiệu"
+      },
+      {
+        "label": "B",
+        "text": "Chất lượng."
+      },
+      {
+        "label": "C",
+        "text": "Bao bi"
+      },
+      {
+        "label": "D",
+        "text": "Dịch vụ lắp đặt"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 71: Tất cả những dấu hiệu sau đây là những đặc điểm cấu thành một nhãn hiệu hàng hoá, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dễ đọc, dễ nhận biết và dễ nhớ"
+      },
+      {
+        "label": "B",
+        "text": "Tạo nên một hào quang đắt tiền."
+      },
+      {
+        "label": "C",
+        "text": "Có tính phân biệt."
+      },
+      {
+        "label": "D",
+        "text": "Gợi ý về lợi ích của hàng hoá."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 72: Một rạp hát tính giá vé cho sinh viên thấp hơn các khách hàng khác là áp dụng chiến lược giá:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ưu tiên"
+      },
+      {
+        "label": "B",
+        "text": "Hai phần"
+      },
+      {
+        "label": "C",
+        "text": "Có phân biệt"
+      },
+      {
+        "label": "D",
+        "text": "Trọn gói"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 73: Một sản phẩm đang ở mức tiêu thụ chậm do năng lực sản xuất sản phẩm thấp, kênh tiêu thụ chưa mở rộng, khách hàng chưa biết nhiều về sản phẩm là đang ở giai đoạn nào sau đây trong chu kỳ sống của nó?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giới thiệu."
+      },
+      {
+        "label": "B",
+        "text": "Bão hòa"
+      },
+      {
+        "label": "C",
+        "text": "Suy thoái"
+      },
+      {
+        "label": "D",
+        "text": "Tăng trưởng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 74: Điều nào sau đây đúng với khái niệm thị trường mục tiêu trong marketing của doanh nghiệp?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là những nhóm khách hàng đã và đang tiêu dùng sản phẩm của doanh nghiệp và người cạnh tranh"
+      },
+      {
+        "label": "B",
+        "text": "Là khách hàng có nhu cầu đang tìm kiếm người cung ứng và đang lựa chọn giữa những lời chào hàng"
+      },
+      {
+        "label": "C",
+        "text": "Là những nhóm khách hàng đã và đang tiêu dùng sản phẩm của doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Là những nhóm khách hàng mà doanh nghiệp cần tập trung mọi nỗ lực marketing để thu hút"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 75: Nghiên cứu marketing nhằm mục đích:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Để tổ chức phân phối sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Để thâm nhập thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Mang lại cho các nhà marketing những thông tin về môi trường marketing và hành vi của khách hàng tiềm năng"
+      },
+      {
+        "label": "D",
+        "text": "Định giá bán sản phẩm cao hơn"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 76: Một doanh nghiệp cho rằng để phát triển sản xuất kinh doanh cần chủ trọng vào khẩu bán hàng và thực hiện khuyếch trương sản phẩm để tăng doanh số, doanh nghiệp đó tuân theo quan điểm marketing nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Định hướng sản xuất"
+      },
+      {
+        "label": "B",
+        "text": "Định hướng sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Định hướng bán hàng"
+      },
+      {
+        "label": "D",
+        "text": "Định hướng marketing."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 77: Marketing truyền thống được bắt đầu với quan điểm tập trung vào…",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Sản xuất"
+      },
+      {
+        "label": "C",
+        "text": "Khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Cả sản xuất và khách hàng."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 78: Chức năng nào của bao bì thương mại sản phẩm được xem là “Người bán hàng im lặng”",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xúc tiến (Promotion)"
+      },
+      {
+        "label": "B",
+        "text": "Bảo vệ (Protection)"
+      },
+      {
+        "label": "C",
+        "text": "Giới thiệu (Presentation)"
+      },
+      {
+        "label": "D",
+        "text": "Cân đối (Proportation)"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 79: Khi xác định khoảng cách giá giữa các mức giá cho các loại hàng trong một chủng loại hàng, cần chú ý các nhân tố sau, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cách đánh giá của khách hàng về đặc điểm của các loại sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Khả năng thanh toán của khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Mức giá của các sản phẩm cạnh tranh"
+      },
+      {
+        "label": "D",
+        "text": "Tính chất của các loại sản phẩm"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 80: Giai đoạn thứ nhất trong quá trình đi đến quyết định mua của người tiêu dùng là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đánh giá những đề xuất"
+      },
+      {
+        "label": "B",
+        "text": "Tìm kiếm thông tin"
+      },
+      {
+        "label": "C",
+        "text": "Tìm kiếm bằng trí nhớ."
+      },
+      {
+        "label": "D",
+        "text": "Nhận ra vấn đề"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 81: Các sản phẩm mà người tiêu dùng thường so sánh về chất lượng, giá cả, kiểu dáng khi mua được gọi là sản phẩm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mua có lựa chọn"
+      },
+      {
+        "label": "B",
+        "text": "Mua ngẫu hứng"
+      },
+      {
+        "label": "C",
+        "text": "Mua theo nhu cầu thụ động"
+      },
+      {
+        "label": "D",
+        "text": "Mua theo nhu cầu đặc biệt"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 82: Đặt cửa hàng bán quần áo nữ trong ký túc xá sinh viên nữ là doanh nghiệp lựa chọn thị trường mục tiêu theo phương thức:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tập trung vào một đoạn thị trường."
+      },
+      {
+        "label": "B",
+        "text": "Chuyên môn hoá theo sản phẩm."
+      },
+      {
+        "label": "C",
+        "text": "Chuyên môn hoá theo thị trường."
+      },
+      {
+        "label": "D",
+        "text": "Tập trung vào một số đoạn thị trường."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 83: Nếu áp dụng marketing -mix giống nhau đối với các đoạn thị trường, điều đó sẽ làm cho:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chi phí marketing tăng giảm thất thường"
+      },
+      {
+        "label": "B",
+        "text": "Chi phí marketing tăng."
+      },
+      {
+        "label": "C",
+        "text": "Chi phí marketing không tăng, không giảm"
+      },
+      {
+        "label": "D",
+        "text": "Chi phí marketing giảm"
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 84: Sản phẩm trong marketing phải bao gồm những đặc trưng sau, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một thứ nào đó có khả năng gây chú ý và kích thích tiêu dùng"
+      },
+      {
+        "label": "B",
+        "text": "Một thứ nào đó có khả năng thoả mãn nhu cầu"
+      },
+      {
+        "label": "C",
+        "text": "Một thứ nào đó có sẵn trong tự nhiên"
+      },
+      {
+        "label": "D",
+        "text": "Một thứ nào đó có khả năng chào bán"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 85: Từ góc độ của khách hàng, sản phẩm doanh nghiệp cung ứng cho khách hàng phải là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản phẩm hữu hình và vô hình."
+      },
+      {
+        "label": "B",
+        "text": "Sản phẩm hữu hình và vô hình, mang lại sự thoả mãn nhu cầu."
+      },
+      {
+        "label": "C",
+        "text": "Sản phẩm hữu hình"
+      },
+      {
+        "label": "D",
+        "text": "Sản phẩm vô hình."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 86: Lợi ích cốt lõi của một sản phẩm được hiểu là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thoả mãn nhu cầu cụ thể của khách hàng nhưng khách hàng không chỉ hướng tới mà còn cần những đặc tính khác"
+      },
+      {
+        "label": "B",
+        "text": "Thoả mãn nhu cầu cụ thể của khách hàng và khách hàng luôn hướng tới nhưng đòi hỏi sự thay đổi cho phù hợp với nhu cầu"
+      },
+      {
+        "label": "C",
+        "text": "Thoả mãn nhu cầu cụ thể của khách hàng nhưng khách hàng hàng thường ít chú ý vì còn những đòi hỏi cao hơn về sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Thoả mãn nhu cầu cụ thể của khách hàng và là điều khách hàng luôn hướng tới"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 87: Một doanh nghiệp tung sản phẩm mới ra thị trường và sử dụng chiến lược giá \"Hớt phần ngon\" thì xu hướng sẽ là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Duy trì giá đó cho đến khi tiêu thụ chậm lại thì giảm giá"
+      },
+      {
+        "label": "B",
+        "text": "Duy trì giá đó cho đến khi sản phẩm bị loại khỏi thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Duy trì giá đó cho đến khi có sản phẩm mới thay thế"
+      },
+      {
+        "label": "D",
+        "text": "Duy trì giá đó cho đến khi có sản phẩm cạnh tranh"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 88: Phân đoạn thị trường theo nguyên tắc hành vi phải dựa vào các biến số, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lợi ích tìm kiếm"
+      },
+      {
+        "label": "B",
+        "text": "Lý do mua hàng"
+      },
+      {
+        "label": "C",
+        "text": "Mức độ trung thành"
+      },
+      {
+        "label": "D",
+        "text": "Lối sống"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 89: Lợi nhuận của sản phẩm thường đạt tới đỉnh ở gần cuối giai đoạn nào trong chu kỳ sống?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giới thiệu."
+      },
+      {
+        "label": "B",
+        "text": "Trưởng thành"
+      },
+      {
+        "label": "C",
+        "text": "Tăng trưởng"
+      },
+      {
+        "label": "D",
+        "text": "Bão hoà"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 90: Doanh nghiệp có thể phải tăng giá khi phải đối mặt với những vấn đề sau đây",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dư thừa khả năng sản xuất sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Lượng cầu tăng quá mức"
+      },
+      {
+        "label": "C",
+        "text": "Sự trung thành của khách hàng với thương hiệu sản phẩm giảm sút"
+      },
+      {
+        "label": "D",
+        "text": "Giảm bớt thi phần"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 91: Khi doanh nghiệp lấy lợi nhuận mong đợi làm một trong các tiêu chuẩn xác định mức giá, doanh nghiệp này có thể là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Những doanh nghiệp công nghiệp độc quyền."
+      },
+      {
+        "label": "B",
+        "text": "Những doanh nghiệp sản xuất tự do cạnh tranh"
+      },
+      {
+        "label": "C",
+        "text": "Doanh nghiệp công nghiệp độc quyền và tự do cạnh tranh"
+      },
+      {
+        "label": "D",
+        "text": "hững doanh nghiệp sản xuất hàng tiêu dùng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 92: Một sản phẩm đã ở pha suy tàn trên thị trường hiện tại vẫn có thể là",
+    "options": [
+      {
+        "label": "A",
+        "text": "ở pha giới thiệu của thị trường mới"
+      },
+      {
+        "label": "B",
+        "text": "ở pha tăng trưởng của thị trường hiện tại"
+      },
+      {
+        "label": "C",
+        "text": "ở pha bão hoà ở thị trường mới"
+      },
+      {
+        "label": "D",
+        "text": "ở pha tăng trưởng của thị trường mới"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 93: Câu hỏi đóng có đặc trưng gì trong các đáp án sau:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có sẵn các câu trả lời mà người được hỏi có thể lựa chọn một vài đáp án trong đó."
+      },
+      {
+        "label": "B",
+        "text": "Đưa lại khả năng cho người được hỏi trả lời bằng lý lẽ và ý kiến riêng của mình."
+      },
+      {
+        "label": "C",
+        "text": "Không đáp án nào đúng."
+      },
+      {
+        "label": "D",
+        "text": "Chứa đựng toàn bộ các phương án có khả năng trả lời mà người được hỏi chỉ lựa chọn một trong số đó."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 94: Một sản phẩm đã ở giai đoạn suy thoái trên thị trường hiện tại vẫn có thể",
+    "options": [
+      {
+        "label": "A",
+        "text": "ở giai đoạn tăng trưởng của thị trường hiện tại."
+      },
+      {
+        "label": "B",
+        "text": "ở giai đoạn bão hoà của thị trường mới."
+      },
+      {
+        "label": "C",
+        "text": "ở giai đoạn giới thiệu của thị trường mới."
+      },
+      {
+        "label": "D",
+        "text": "ở giai đoạn tăng trưởng của thị trường mới."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 95: Trình tự của các câu hỏi trong phiếu điều tra khách hàng có thể sắp xếp",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xen kẽ các câu hỏi theo ý đồ của người điều tra"
+      },
+      {
+        "label": "B",
+        "text": "Câu hỏi khó trả lời hoặc mang tính chất cá nhân nên để lên trước"
+      },
+      {
+        "label": "C",
+        "text": "Bất kỳ theo ý muốn của người điều tra"
+      },
+      {
+        "label": "D",
+        "text": "Câu hỏi khó trả lời hoặc mang tính chất cá nhân nên để sau"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 96: Bất cứ cái gì mang lại sự thoả mãn cho nhu cầu con người và có thể chào bán trên thị trường đều được gọi là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một vật quan trọng"
+      },
+      {
+        "label": "B",
+        "text": "Một sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Một thứ có giá trị"
+      },
+      {
+        "label": "D",
+        "text": "Một thứ có thể mua bán"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 97: Vận dụng lý thuyết chu kỳ sống sản phẩm vào hoạt động marketing, người làm marketing cần nhận thức được các điều sau đây, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thời kỳ tăng trưởng ngắn là cần thiết để phát triển sản phẩm."
+      },
+      {
+        "label": "B",
+        "text": "Có thể thua lỗ trong suốt giai đoạn giới thiệu sản phẩm."
+      },
+      {
+        "label": "C",
+        "text": "Sản phẩm có thể bị loại khỏi thị trường ở giai đoạn suy thoái"
+      },
+      {
+        "label": "D",
+        "text": "Thời kỳ bão hoà có thể kéo dài nếu điều chỉnh chiến lược sản phẩm."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 98: Hoạt động trao đổi mang tính thương mại được gọi là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đổi hàng"
+      },
+      {
+        "label": "B",
+        "text": "Chuyển giao"
+      },
+      {
+        "label": "C",
+        "text": "Bán hàng"
+      },
+      {
+        "label": "D",
+        "text": "Giao dịch"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 99: Thuật ngữ nào đúng với phần trống trong khái niệm sau “…..” là một nhóm khách hàng có phản ứng như nhau đối với một tập hợp những kích thích marketing\"",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người tiêu dùng."
+      },
+      {
+        "label": "B",
+        "text": "Đoạn thị trường."
+      },
+      {
+        "label": "C",
+        "text": "Nhóm khách hàng."
+      },
+      {
+        "label": "D",
+        "text": "Thị trường."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 100: Bạn là người kết hợp trang phục rất trang nhã, mọi người thường hỏi bạn về thời trang. Vậy bạn là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người dẫn dắt dư luận"
+      },
+      {
+        "label": "B",
+        "text": "Người biết làm vừa lòng"
+      },
+      {
+        "label": "C",
+        "text": "Người mẫu."
+      },
+      {
+        "label": "D",
+        "text": "Người mua"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 101: Điều nào sau đây cho thấy mức độ hài hoà của danh mục hàng hoá?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phản ánh mức độ gần gũi của hàng hoá thuộc các nhóm chủng loại khác nhau dưới góc độ mục đích sử dụng, tổ chức sản xuất và phân phối"
+      },
+      {
+        "label": "B",
+        "text": "Mức độ đồng nhất của các loại hàng hoá về chất lượng, giá cả, mục đích sử dụng và cách thức phân phối"
+      },
+      {
+        "label": "C",
+        "text": "Các sản phẩm chào bán có mối quan hệ gắn bó về cácđặc tính sử dụng và cách thức sử dụng nhằm thoả mãn nhu cầu đa dạng của người tiêu dùng"
+      },
+      {
+        "label": "D",
+        "text": "Các sản phẩm chào bán có mối quan hệ gắn bó về các đặc tính sử dụng và cách thức sử dụng. Các sản phẩm có cùng thương hiệu hoặc thương hiệu có nhiều điểm tương tự nhau trong cùng danh mục hàng hoá"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 102: Chiến lược marketing không phân biệt áp dụng cho đoạn thị trường mục tiêu của doanh nghiệp được hiểu là việc:",
+    "options": [
+      {
+        "label": "A",
+        "text": "áp dụng một hệ thống marketing – mix các đoạn thị trường."
+      },
+      {
+        "label": "B",
+        "text": "áp dụng một hệ thống marketing - mix cho thị trường tổng thể."
+      },
+      {
+        "label": "C",
+        "text": "áp dụng nhiều hệ thống marketing - mix cho nhiều đoạn thị trường."
+      },
+      {
+        "label": "D",
+        "text": "áp dụng nhiều hệ thống marketing - mix cho các đoạn thị trường khác nhau."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 103: Doanh nghiệp \"General Motor\" chuyên sản xuất ô tô, các loại ôtô của doanh nghiệp được gọi là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các cách gọi trên đều sai"
+      },
+      {
+        "label": "B",
+        "text": "Danh mục sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Chủng loại sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Nhóm chủng loại sản phẩm"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 104: Một doanh nghiệp bán một sản phẩm với các mức giá khác nhau cho đối tượng khác nhau, doanh nghiệp đó đang thực hiện:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Định giá dựa vào chi phí"
+      },
+      {
+        "label": "B",
+        "text": "Định giá hai phần"
+      },
+      {
+        "label": "C",
+        "text": "Định giá phân biệt"
+      },
+      {
+        "label": "D",
+        "text": "Định giá dựa theo thời vụ"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 105: Khi quyết định về dịch vụ gắn liền với hàng hóa cung ứng cho khách hàng, người làm marketing phải giải quyết vấn đề sau:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nội dung dịch vụ"
+      },
+      {
+        "label": "B",
+        "text": "Hình thức cung ứng dịch vụ"
+      },
+      {
+        "label": "C",
+        "text": "Mức độ dịch vụ cung ứng"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả những vấn đề trên"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 106: Đặc điểm của sản phẩm dịch vụ là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tỉnh lệ thuộc"
+      },
+      {
+        "label": "B",
+        "text": "Tính vô hình, tỉnh lệ thuộc, tỉnh không cất trữ được và không ổn định."
+      },
+      {
+        "label": "C",
+        "text": "Tính vô hình"
+      },
+      {
+        "label": "D",
+        "text": "Không cất trữ được và không ổn định"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 107: Doanh nghiệp nên chủ động cắt giảm giá bán sản phẩm trong các tình huống sau, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Do nạn “lạm phát chi phí”"
+      },
+      {
+        "label": "B",
+        "text": "Do mục đích khống chế thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Do tỷ phần thị trường giảm sút"
+      },
+      {
+        "label": "D",
+        "text": "Do dư thừa năng lực sản xuất"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 108: Hàng điện tử thông dụng được xếp vào nhóm \"Sản phẩm lâu bền, hữu hình\" là cách phân loại sản phẩm theo tiêu chí nào sau đây:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Theo công dụng sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Theo trạng thái tồn tại."
+      },
+      {
+        "label": "C",
+        "text": "Theo thói quen mua hàng"
+      },
+      {
+        "label": "D",
+        "text": "Theo thời gian và hình thái tồn tại"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 109: Yếu tố nào dưới đây không tham gia vào quyết định về chính sách sản phẩm của doanh nghiệp:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tính chất của sản phẩm ."
+      },
+      {
+        "label": "B",
+        "text": "Việc đặt tên hiệu sản phẩm."
+      },
+      {
+        "label": "C",
+        "text": "Các chương trình khuyến mãi đi kèm sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "Việc đóng gói sản phẩm."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 110: Nhược điểm chủ yếu của phương pháp định giá theo chi phí là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Không tính đến nhu cầu thị trường"
+      },
+      {
+        "label": "B",
+        "text": "Chi phí sản xuất tăng khi sản lượng tăng"
+      },
+      {
+        "label": "C",
+        "text": "Chi phí biến đổi tăng khi sản lượng tăng"
+      },
+      {
+        "label": "D",
+        "text": "Thường dẫn đến thua lỗ hơn là tạo ra lợi nhuận"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 111: Khi bạn đang lật giở cuốn “thực đơn” của một nhà hàng để chọn món ăn cho bữa tối là bạn đang ở giai đoạn nào trong quá trình đi đến quyết định mua?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tìm kiếm thông tin."
+      },
+      {
+        "label": "B",
+        "text": "Nhận biết nhu cầu của mình."
+      },
+      {
+        "label": "C",
+        "text": "Đánh giá phương án"
+      },
+      {
+        "label": "D",
+        "text": "Phân tích thông tin"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 112: Điều nào sau đây cho thấy một sản phẩm là sản phẩm công nghiệp:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản phẩm được siêu thị bán lẻ tổng hợp mua để bán lại kiếm lời."
+      },
+      {
+        "label": "B",
+        "text": "Sản phẩm được người tiêu dùng cuối cùng sử dụng."
+      },
+      {
+        "label": "C",
+        "text": "Sản phẩm được sử dụng để chế tạo thành sản phẩm khác."
+      },
+      {
+        "label": "D",
+        "text": "Sản phẩm tiêu dùng thiết yếu được phân phối rộng rãi trên thị trường."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 113: Thị phần gia tăng sẽ dẫn tới lợi nhuận lớn hơn nếu",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp tăng thị phần nhờ giảm giá"
+      },
+      {
+        "label": "B",
+        "text": "Chi phí đơn vị giảm"
+      },
+      {
+        "label": "C",
+        "text": "Doanh nghiệp cung ứng một loại sản phẩm có chất lượng tốt hơn với giá như cũ"
+      },
+      {
+        "label": "D",
+        "text": "Doanh nghiệp áp dụng chiến lược đáp ứng thị trường không tập trung"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 114: Khái niệm marketing gợi ý rằng việc hoàn thành mục tiêu của doanh nghiệp phải thông qua:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bảo đảm độ thoả dụng cao nhất cho người tiêu dùng"
+      },
+      {
+        "label": "B",
+        "text": "Định giá bán sản phẩm cao để thu lợi nhuận"
+      },
+      {
+        "label": "C",
+        "text": "Cung cấp những sản phẩm cải tiến liên tục"
+      },
+      {
+        "label": "D",
+        "text": "Lượng bán hàng gia tăng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 115: Kinh doanh cần tìm kiếm lợi nhuận ở bộ phận nào sau đây của sản phẩm?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản phẩm."
+      },
+      {
+        "label": "B",
+        "text": "Dịch vụ cung ứng cùng sản phẩm."
+      },
+      {
+        "label": "C",
+        "text": "Bao bì"
+      },
+      {
+        "label": "D",
+        "text": "Ở cả sản phẩm, bao bì và dịch vụ cung ứng cùng sản phẩm."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 116: Điều kiện nào sau đây thích hợp nhất cho doanh nghiệp áp dụng chiến lược giá “Hớt váng sữa”",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp theo đuổi chiến lược kinh doanh đa mục tiêu"
+      },
+      {
+        "label": "B",
+        "text": "Doanh nghiệp có sản phẩm độc đáo, được bảo vệ bản quyền"
+      },
+      {
+        "label": "C",
+        "text": "Sản phẩm đang ở giai đoạn tăng trưởng trong chu kỳ sống (PLC) của nó"
+      },
+      {
+        "label": "D",
+        "text": "Đường cầu thị trường ít co giãn"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 117: Một cửa hàng đã bán trọn gói máy vi tính, máy in, ổ đĩa CD và phần mềm sơ khởi thấp hơn giá mua từng loại thiết bị cộng lại là đã áp dụng kiểu chiến lược giá",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá khuyến mại"
+      },
+      {
+        "label": "B",
+        "text": "Giá trọn gói"
+      },
+      {
+        "label": "C",
+        "text": "Giá phân biệt"
+      },
+      {
+        "label": "D",
+        "text": "Giá theo danh mục hàng hoá."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 118: Hiểu một cách đầy đủ, marketing là công việc thuộc về ......",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người mua"
+      },
+      {
+        "label": "B",
+        "text": "Những người kinh doanh thương mại"
+      },
+      {
+        "label": "C",
+        "text": "Người bán"
+      },
+      {
+        "label": "D",
+        "text": "Bên nào tích cực hơn trong việc tìm kiếm cách trao đổi với bên kia"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 119: Để tăng thêm sự hấp dẫn của sản phẩm đối với khách hàng các doanh nghiệp thường cung ứng thêm các dịch vụ bổ sung. Theo anh/chị, khi cung ứng dịch vụ bổ sung cho khách hàng cần lưu ý những vấn đề gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bằng chứng hữu hình và độ tin cậy của dịch vụ; Thái độ và trình độ hiểu biết của nhân viên cung ứng dịch vụ; Chất lượng của dịch vụ cung ứng; Nên tính giá dịch vụ vào giá sản phẩm hay tách riêng"
+      },
+      {
+        "label": "B",
+        "text": "Bằng chứng hữu hình và độ tin cậy của dịch vụ; Thái độ và trình độ hiểu biết của nhân viên cung ứng dịch vụ; Nên tính giá dịch vụ vào giá sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Bằng chứng hữu hình và độ tin cậy của dịch vụ; Thái độ và trình độ hiểu biết của nhân viên cung ứng dịch vụ; Nên cung ứng dịch vụ gắn với sản phẩm hay tách riêng"
+      },
+      {
+        "label": "D",
+        "text": "Bằng chứng hữu hình và độ tin cậy của dịch vụ; Thái độ và trình độ hiểu biết của nhân viên cung ứng dịch vụ; Nên tính giá dịch vụ vào giá sản phẩm hay tách riêng"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 120: Một cửa hàng đặt giá “3.999 VND/ sản phẩm A” là đã khai thác yếu tố nào sau đây khi định giá sản phẩm?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự ngộ nhận về giá"
+      },
+      {
+        "label": "B",
+        "text": "Giá hàng hoá rẻ do chất lượng thấp"
+      },
+      {
+        "label": "C",
+        "text": "Định giá thấp để thu hút khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Sự nhạy cảm về giá của khách hàng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 121: Điều nào sau đây đúng với phân đoạn thị trường?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giúp cho doanh nghiệp phân bổ nguồn lực một cách có hiệu quả."
+      },
+      {
+        "label": "B",
+        "text": "Đáp ứng yêu cầu kinh doanh của doanh nghiệp"
+      },
+      {
+        "label": "C",
+        "text": "Là chia thị trường thành các nhóm khách hàng có các đặc điểm và nhu cầu tương đồng nhau."
+      },
+      {
+        "label": "D",
+        "text": "Cho phép doanh nghiệp xây dựng một chương trình marketing phù hợp với toàn bộ thị trường."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 122: Với mục tiêu marketing là dẫn đầu thị phần thì doanh nghiệp nên đặt mức giá",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đặt mức giá tuỳ loại sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Mức giá cao nhất có thể được"
+      },
+      {
+        "label": "C",
+        "text": "Mức giá thấp nhất có thể được"
+      },
+      {
+        "label": "D",
+        "text": "Điều chỉnh giá theo từng giai đoạn kinh doanh"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 123: Trong những ngày mới thành lập, công ty viễn thông VT cung ứng sản phẩm và dịch vụ với mức giá tương đối rẻ so với các doanh nghiệp khác trong cùng ngành. Đồng thời, công ty luôn không ngừng mở rộng danh mục các dịch vụ, gói cước điện thoại hấp dẫn để thu hút khách hàng. Như vậy, VT đã lựa chọn quan điểm quân trị marketing chủ đạo nào trong giai đoạn này?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing tập trung vào bán hàng."
+      },
+      {
+        "label": "B",
+        "text": "Marketing tập trung vào khách hàng."
+      },
+      {
+        "label": "C",
+        "text": "Marketing tập trung vào sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "Marketing tập trung vào sản xuất."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 124: Sự thoả mãn sau khi mua tuỳ thuộc vào",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá của hàng hoá cao hay thấp"
+      },
+      {
+        "label": "B",
+        "text": "Kết quả so sánh giữa chi phí bỏ ra và lợi ích thu được từ sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Sự mong đợi của người tiêu dùng và sự hoàn thiện của sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "ự mong đợi của người tiêu dùng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 125: Trình tự của các câu hỏi trong phiếu điều tra khách hàng nên được sắp xếp theo đáp án nào sau đây:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ngẫu nhiên theo ý muốn của người điều tra."
+      },
+      {
+        "label": "B",
+        "text": "Xen kẽ các câu hỏi theo ý đồ của người điều tra."
+      },
+      {
+        "label": "C",
+        "text": "Câu hỏi khó trả lời hoặc mang tính chất cá nhân nên để sau."
+      },
+      {
+        "label": "D",
+        "text": "Câu hỏi khó trả lời hoặc mang tính chất cá nhân nên để lên trước."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 126: Các yếu tố ảnh hưởng tới quyết định về giả được bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các yếu tố bên ngoài"
+      },
+      {
+        "label": "B",
+        "text": "Các yếu tố bên trong"
+      },
+      {
+        "label": "C",
+        "text": "A và B"
+      },
+      {
+        "label": "D",
+        "text": "Các yếu tố vĩ mô và vì mô"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 127: Theo quan điểm marketing hiện đại, marketing là ...",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một dạng hoạt động của cá nhân nhằm thỏa mãn những nhu cầu và mong muốn thông qua trao đổi."
+      },
+      {
+        "label": "B",
+        "text": "Một dạng hoạt động của tổ chức nhằm thỏa mãn những nhu cầu và mong muốn thông qua trao đổi."
+      },
+      {
+        "label": "C",
+        "text": "Một dạng hoạt động của người tiêu dùng nhằm thỏa mãn những nhu cầu và mong muốn thông qua trao đổi."
+      },
+      {
+        "label": "D",
+        "text": "Một dạng hoạt động của con người nhằm thỏa mãn những nhu cầu và mong muốn thông qua trao đổi."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 128: Điều đầu tiên phải thực hiện khi định giá bán sản phẩm của một doanh nghiệp là",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chọn mục tiêu định giá"
+      },
+      {
+        "label": "B",
+        "text": "Ước lượng chi phí"
+      },
+      {
+        "label": "C",
+        "text": "Phân tích giá của hãng cạnh tranh"
+      },
+      {
+        "label": "D",
+        "text": "Xác định lượng cầu"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 129: Hãng hàng không X định giá vé hạng một bay ngày là 189 USD, hạng hai bay đêm là 149 USD, chiến lược giá phân biệt này căn cứ vào",
+    "options": [
+      {
+        "label": "A",
+        "text": "Theo hạng hàng hóa và theo mức độ nhu cầu"
+      },
+      {
+        "label": "B",
+        "text": "Theo hạng hàng hóa"
+      },
+      {
+        "label": "C",
+        "text": "Theo thời gian"
+      },
+      {
+        "label": "D",
+        "text": "Theo loại khách hàng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 130: Để nâng cao hiệu quả của bao gói hàng hóa, nhà quản trị marketing cần phải đưa ra các quyết định sau đây, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quyết định về các yêu cầu và thử nghiệm bao gói"
+      },
+      {
+        "label": "B",
+        "text": "Quyết định về dịch vụ"
+      },
+      {
+        "label": "C",
+        "text": "Xây dựng quan niệm về bao gó"
+      },
+      {
+        "label": "D",
+        "text": "Quyết định về các thông tin trên bao bì"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 131: Chức năng cơ bản của hoạt động marketing là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phát hiện và ứng dụng những công nghệ mới để tạo lợi thế cạnh tranh cho doanh nghiệp."
+      },
+      {
+        "label": "B",
+        "text": "Huy động vốn cho doanh nghiệp."
+      },
+      {
+        "label": "C",
+        "text": "Tạo ra khách hàng cho doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Tạo ra sản phẩm cho doanh nghiệp"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 132: Những tiêu thức sau đây thuộc nhóm nhân khẩu học dùng để phân đoạn thị trường, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lối sống"
+      },
+      {
+        "label": "B",
+        "text": "Tuổi tác."
+      },
+      {
+        "label": "C",
+        "text": "Thu nhập."
+      },
+      {
+        "label": "D",
+        "text": "Giới tính."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 133: Câu nào sau đây thuộc diện thông tin do pháp luật qui định phải ghi?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xem hạn dùng dưới đáy hộp"
+      },
+      {
+        "label": "B",
+        "text": "Hàng Việt Nam chất lượng cao"
+      },
+      {
+        "label": "C",
+        "text": "Đọc kỹ hướng dẫn trước khi dùng"
+      },
+      {
+        "label": "D",
+        "text": "Hút thuốc có hại cho sức khỏe"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 134: Một cuộc nghiên cứu marketing xác định được rằng nếu chấp nhận giảm giá 10% thì doanh thu tăng ít nhất 15%, đó là một cuộc nghiên cứu",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thứ cấp"
+      },
+      {
+        "label": "B",
+        "text": "Thăm dò"
+      },
+      {
+        "label": "C",
+        "text": "Thứ yếu"
+      },
+      {
+        "label": "D",
+        "text": "Sơ cấp"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 135: Đặt cửa hàng quần áo nữ trong khu nội trú sinh viên nữ là phương án lựa chọn thị trường",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chuyên môn hoá theo sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Tập trung vào một đoạn thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Chuyên môn hoá tuyển chọn"
+      },
+      {
+        "label": "D",
+        "text": "Chuyên môn hoá theo thị trường"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 136: Phân đoạn thị trường theo nguyên tắc tâm lý phải dựa vào các biến số, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lối sống"
+      },
+      {
+        "label": "B",
+        "text": "Mức độ trung thành"
+      },
+      {
+        "label": "C",
+        "text": "Kiểu nhân cách"
+      },
+      {
+        "label": "D",
+        "text": "Giai tầng xã hội"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 137: Trao đổi không thể xảy ra được nếu thiếu các điều kiện sau đây, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các bên được tự do trao đổi."
+      },
+      {
+        "label": "B",
+        "text": "Hai bên được một bên nào đó thúc đẩy trao đổi."
+      },
+      {
+        "label": "C",
+        "text": "Hai bên đều có khả năng thực hiện hành vi trao đổi."
+      },
+      {
+        "label": "D",
+        "text": "Có hai bên có những vật có giá trị đối với bên kia và có ý định trao đổi."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 138: Khi quyết định cung cấp dịch vụ đi kèm sản phẩm, người làm marketing nên căn cứ vào:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Năng lực của nhà cung cấp dịch vụ"
+      },
+      {
+        "label": "B",
+        "text": "Tất cả các đáp án trên (A,B,C)"
+      },
+      {
+        "label": "C",
+        "text": "Loại sản phẩm mà doanh nghiệp cung ứng ra thị trường"
+      },
+      {
+        "label": "D",
+        "text": "Yêu cầu về dịch vụ của khách hàng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 139: Điều nào sau đây đúng với chiến lược giá theo chủng loại hàng hoá?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá cho sản phẩm cùng loại với chất lượng khác nhau"
+      },
+      {
+        "label": "B",
+        "text": "Giá cho sản phẩm chính và sản phẩm kèm theo bắt buộc"
+      },
+      {
+        "label": "C",
+        "text": "Giá trả cho phần sản phẩm tối thiểu bắt buộc và phần sản phẩm tiêu dùng thêm trong một chủng loại hàng hoá"
+      },
+      {
+        "label": "D",
+        "text": "Giá cho sản phẩm chính và sản phẩm phụ trong một chủng loại hàng hoá"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 140: Theo góc độ người mua, giả là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Khoản tiền mà người mua phải trả cho người bán để có quyền sở hữu và sử dụng sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Khoản tiền mà người bán đã tính toán hợp lý dựa trên giá thành sản xuất và lợi nhuận mong muốn của họ"
+      },
+      {
+        "label": "C",
+        "text": "Khoản tiền tương ứng với giá trị của sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Khoản tiền mà người mua phải trả cho người bán, nên họ mong muốn trả càng thấp càng tốt"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 141: Doanh nghiệp muốn đạt được lợi nhuận, khi sử dụng các yếu tố của marketing -mix cần phải",
+    "options": [
+      {
+        "label": "A",
+        "text": "Coi giá cả là yếu tố duy nhất"
+      },
+      {
+        "label": "B",
+        "text": "Coi sản phẩm là vấn đề quan trọng nhất."
+      },
+      {
+        "label": "C",
+        "text": "Kết hợp cả bốn yếu tố của marketing -mix."
+      },
+      {
+        "label": "D",
+        "text": "Chỉ cần sử dụng một trong bốn yếu tố marketing -mix là đủ"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 142: Hàng ngày, bạn sử dụng một chiếc xe đạp rất tốt để đi đến trường. Vậy lợi ích cốt lõi của chiếc xe đạp đó là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là phương tiện đi lại."
+      },
+      {
+        "label": "B",
+        "text": "Là sự đắt tiền của nó hơn xe đạp của các bạn khác."
+      },
+      {
+        "label": "C",
+        "text": "Là thể hiện sự sang trọng của bạn."
+      },
+      {
+        "label": "D",
+        "text": "Nhờ sử dụng xe đạp mà sức khoẻ của bạn tăng lên"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 143: Khi đánh giá về qui mô và tăng trưởng của thị trường mục tiêu, các nhà marketing cần chú ý:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nên chọn các đoạn thị trường có quy mô lớn."
+      },
+      {
+        "label": "B",
+        "text": "Chọn đoạn thị trường quen thuộc."
+      },
+      {
+        "label": "C",
+        "text": "Nên chọn các đoạn thị trường nhỏ vì dễ thâm nhập."
+      },
+      {
+        "label": "D",
+        "text": "Đoạn thị trường phải đủ lớn để bù đắp nỗ lực marketing."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 144: Một sản phẩm đang ở mức tiêu thụ chậm do năng lực sản xuất sản phẩm thấp, kênh tiêu thụ chưa mở rộng, khách hàng chưa biết nhiều về sản phẩm là đang ở giai đoạn nào sau đây trong chu kỳ sống của nó?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giới thiệu. C.Bão hòa."
+      },
+      {
+        "label": "B",
+        "text": "Tăng D.Suy thoái. trưởng."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 145: Bất cứ cái gì mang lại sự thoả mãn cho nhu cầu con người và có thể chào bán trên thị trường đều được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một thứ có C. Một thứ có thể mua bán. giá trị. D. Một vật quan trọng."
+      },
+      {
+        "label": "B",
+        "text": "Một sản phẩm."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 146: Lợi nhuận của sản phẩm thường đạt tới đỉnh ở gần cuối giai đoạn nào trong chu kỳ sống?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giới C. Trưởng thành. thiệu. D. *Bão hoà."
+      },
+      {
+        "label": "B",
+        "text": "Tăng trưởng."
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 147: Đặt cửa hàng quần áo nữ trong khu nội trú sinh viên nữ là phương án lựa chọn thị trường:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tập trung vào một đoạn C. Chuyên môn hoá theo thị thị trường trường"
+      },
+      {
+        "label": "B",
+        "text": "Chuyên môn hoá tuyển D. Chuyên môn hoá theo sản chọn phẩm"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 148: Điều nào sau đây đúng với khái niệm thị trường mục tiêu trong marketing của doanh nghiệp?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là những nhóm khách hàng mà doanh nghiệp cần tập trung mọi nỗ lực marketing để thu hút."
+      },
+      {
+        "label": "B",
+        "text": "Là những nhóm khách hàng đã và đang tiêu dùng sản phẩm của doanh nghiệp."
+      },
+      {
+        "label": "C",
+        "text": "Là những nhóm khách hàng đã và đang tiêu dùng sản phẩm của doanh nghiệp và người cạnh tranh."
+      },
+      {
+        "label": "D",
+        "text": "Là khách hàng có nhu cầu đang tìm kiếm người cung ứng và đang lựa chọn giữa những lời chào hàng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 149: Lợi nhuận của doanh nghiệp thường đạt tới đỉnh khi sản phẩm ở giai đoạn cuối của thời kì nào ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giới thiệu"
+      },
+      {
+        "label": "B",
+        "text": "Tăng trưởng"
+      },
+      {
+        "label": "C",
+        "text": "Bão hòa"
+      },
+      {
+        "label": "D",
+        "text": "Suy thoái"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 150: Năm lực lượng cạnh tranh trên một thị trường ngành của Michael Porter là đối thủ cạnh tranh tiềm ẩn, đối thủ cạnh tranh trong ngành, sản phẩm thay thế, khách hàng và nhà cung cấp được các doanh nghiệp sử dụng để:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xác định mức độ cạnh tranh trong ngành"
+      },
+      {
+        "label": "B",
+        "text": "Xác định mức độ hấp dẫn của đoạn thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Định vị sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Hoạch định chính sách marketing hỗn hợp"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 151: Chiến lược marketing của doanh nghiệp hướng tới một nhóm người tiêu dùng thì được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chiến lược marketing C. Chiến lược marketing nhằm thúc đẩy tiêu dùng bán lẻ"
+      },
+      {
+        "label": "B",
+        "text": "Chiến lược D. Chiến lược marketing củng cố thị marketing mục tiêu trường nội địa."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 152: Sự hài lòng sau khi mua tuỳ thuộc vào:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá cả của hàng hóa đó cao hay thấp"
+      },
+      {
+        "label": "B",
+        "text": "Kỳ vọng của người tiêu dùng về sản phẩm đó"
+      },
+      {
+        "label": "C",
+        "text": "Kết quả so sánh giữa giá trị tiêu dùng và kì vọng về sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "So sánh giữa giá trị tiêu dùng và sự hoàn thiện của sản phẩm"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 153: Giai đoạn thứ nhất trong quá trình đi đến quyết định mua của người tiêu dùng là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tìm kiếm thông tin."
+      },
+      {
+        "label": "B",
+        "text": "Tìm kiếm bằng trí nhớ."
+      },
+      {
+        "label": "C",
+        "text": "Đánh giá những đề xuất."
+      },
+      {
+        "label": "D",
+        "text": "Nhận ra vấn đề."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 154: Sự cân đối lợi nhuận của doanh nghiệp, thoả mãn nhu cầu của khách hàng và lợi ích xã hội là một đòi hỏi đối với nhà marketing theo quan điểm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing định hướng thị trường."
+      },
+      {
+        "label": "B",
+        "text": "Marketing định hướng sản xuất."
+      },
+      {
+        "label": "C",
+        "text": "Marketing đạo đức xã hội."
+      },
+      {
+        "label": "D",
+        "text": "Marketing định hướng sản phẩm."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 155: Trao đổi không thể xảy ra được nếu thiếu các điều kiện sau đây, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có hai bên có những vật có giá trị đối với bên kia và có ý định trao đổi."
+      },
+      {
+        "label": "B",
+        "text": "Hai bên được một bên nào đó thúc đẩy trao đổi."
+      },
+      {
+        "label": "C",
+        "text": "Các bên được tự do trao đổi."
+      },
+      {
+        "label": "D",
+        "text": "Hai bên đều có khả năng thực hiện hành vi trao đổi."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 156: Môi trường marketing vi mô bao gồm các yếu tố sau, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thị trường và kênh marketing C. Các trung gian của doanh nghiệp. marketing."
+      },
+      {
+        "label": "B",
+        "text": "Người cạnh tranh. D. *Công nghệ và kỹ thuật."
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 157: Khác nhau cơ bản của quan điểm bán hàng và quan điểm marketing là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bán hàng bắt đầu từ nghiên cứu nhu cầu của khách hàng."
+      },
+      {
+        "label": "B",
+        "text": "Bán hàng nhằm mục tiêu đạt lợi nhuận nhờ tăng lượng bán."
+      },
+      {
+        "label": "C",
+        "text": "Bán hàng tập trung vào sự hiểu biết nhu cầu của khách hàng."
+      },
+      {
+        "label": "D",
+        "text": "Bán hàng sử dụng công cụ marketing - mix."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 158: Marketing mục tiêu được hiểu là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tập trung sản xuất ra sản phẩm và tìm cách bán chúng."
+      },
+      {
+        "label": "B",
+        "text": "Kích thích nhu cầu mua sắm của khách hàng để bán hàng."
+      },
+      {
+        "label": "C",
+        "text": "Nghiên cứu và tìm cách thoả mãn nhu cầu của khách hàng trên cơ sở bảo đảm lợi ích khách hàng và mục tiêu của doanh nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Hoàn thiện sản phẩm để đáp ứng nhu cầu của khách hàng."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 159: Sản phẩm trong marketing phải bao gồm những đặc trưng sau:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một thứ nào đó có khả năng chào bán."
+      },
+      {
+        "label": "B",
+        "text": "Một thứ nào đó có khả năng thoả mãn nhu cầu."
+      },
+      {
+        "label": "C",
+        "text": "Một thứ nào đó có khả năng gây chú ý và kích thích tiêu dùng."
+      },
+      {
+        "label": "D",
+        "text": "Tất cả các phương án trên."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 160: Trong những điều kiện sau đây , điều kiện nào không nhất thiết phải thỏa mãn mà sự trao đổi vẫn xảy ra",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ít nhất phải có 2 bên"
+      },
+      {
+        "label": "B",
+        "text": "Phải có sự trao đổi tiền giữa 2 bên"
+      },
+      {
+        "label": "C",
+        "text": "Mỗi bên phải có khả năng giao tiếp và giao hàng"
+      },
+      {
+        "label": "D",
+        "text": "Mỗi bên được tự do chấp nhận hoặc từ chối đề nghị (chào hàng) của bên kia"
+      },
+      {
+        "label": "E",
+        "text": "Mỗi bên đều tin tưởng giao dịch với bên kia là hợp lý"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 161: Quan điểm marketing tập trung vào …… cho rằng người tiêu dùng ưa thích những sản phẩm có chất lượng , tính năng và hình thức tỐt nhất vàvì vậy doanh nghiệp cần tập trung vào cải tiến sản phẩm",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản xuất"
+      },
+      {
+        "label": "B",
+        "text": "Sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Dịch vụ"
+      },
+      {
+        "label": "D",
+        "text": "Marketing"
+      },
+      {
+        "label": "E",
+        "text": "Bán hàng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 162: Thông tin thứ cấp thường có thể thu thập được:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhanh và rẻ hơn thông tin sơ C. Qua điều tra khách hàng. cấp D. Qua điều tra khách hàng và các"
+      },
+      {
+        "label": "B",
+        "text": "Chính xác hơn thông tin sơ nguồn tài liệu cấp."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 163: Khi bạn đang lật giở cuốn “thực đơn” của một nhà hàng để chọn món ăn cho bữa tối là bạn đang ở giai đoạn nào trong quá trình đi đến quyết định mua?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tìm kiếm thông tin. C. *Đánh giá phương án."
+      },
+      {
+        "label": "B",
+        "text": "Phân tích thông tin D. Nhận biết nhu cầu của mình."
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 164: Nghiên cứu marketing nhằm mục đích:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Định giá bán sản phẩm cao hơn."
+      },
+      {
+        "label": "B",
+        "text": "Mang lại cho các nhà marketing những thông tin về môi trường marketing và hành vi của khách hàng tiềm năng."
+      },
+      {
+        "label": "C",
+        "text": "Để thâm nhập thị trường."
+      },
+      {
+        "label": "D",
+        "text": "Để tổ chức phân phối sản phẩm."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 165: Marketing truyền thống được bắt đầu với quan điểm tập trung vào….:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản C. Cả sản xuất và khách hàng. xuất. D. Sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Khách hàng."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 166: Theo quan điểm marketing, thị trường tiềm năng là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là tổng thể những người mua sản phẩm của doanh nghiệp."
+      },
+      {
+        "label": "B",
+        "text": "Là những khách hàng đang và sẽ mua sản phẩm của doanh nghiệp."
+      },
+      {
+        "label": "C",
+        "text": "Là tập hợp những người chưa mua sản phẩm của doanh nghiệp và đang mua sản phẩm của người cạnh tranh."
+      },
+      {
+        "label": "D",
+        "text": "Là thị trường hiện tại của doanh nghiệp cộng với thị trường mở rộng mới của doanh nghiệp."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 167: Trình tự của các câu hỏi trong phiếu điều tra khách hàng có thể sắp xếp:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bất kỳ theo ý muốn của người điều tra."
+      },
+      {
+        "label": "B",
+        "text": "Câu hỏi khó trả lời hoặc mang tính chất cá nhân nên để lên trước."
+      },
+      {
+        "label": "C",
+        "text": "Câu hỏi khó trả lời hoặc mang tính chất cá nhân nên để sau."
+      },
+      {
+        "label": "D",
+        "text": "Xen kẽ các câu hỏi theo ý đồ của người điều tra."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 168: Một cuộc nghiên cứu marketing xác định được rằng nếu chấp nhận giảm giá 10% thì doanh thu tăng ít nhất 15%, đó là một cuộc nghiên cứu:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thứ yếu. C. *Sơ cấp."
+      },
+      {
+        "label": "B",
+        "text": "Thăm dò. D. Thứ cấp."
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 169: Sự thoả mãn sau khi mua tuỳ thuộc vào:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá của hàng hoá cao hay thấp."
+      },
+      {
+        "label": "B",
+        "text": "Sự mong đợi của người tiêu dùng."
+      },
+      {
+        "label": "C",
+        "text": "Sự mong đợi của người tiêu dùng và sự hoàn thiện của sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "Kết quả so sánh giữa chi phí bỏ ra và lợi ích thu được từ sản phẩm."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 170: Động cơ của người mua được hiểu là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hành vi mang tính định hướng."
+      },
+      {
+        "label": "B",
+        "text": "Là nhu cầu đã trở nên bức thiết mà con người phải hành động để thoả mãn."
+      },
+      {
+        "label": "C",
+        "text": "Là một trạng thái kích thích của môi trường."
+      },
+      {
+        "label": "D",
+        "text": "Là một loại nhu cầu ở thứ hạng cao."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 171: Điều nào sau đây đúng với nhiệm vụ của nhà marketing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thiết kế sản phẩm đáp ứng nhu cầu của khách hàng"
+      },
+      {
+        "label": "B",
+        "text": "Hiểu được những gì xảy ra trong “hộp đen ý thức người mua”"
+      },
+      {
+        "label": "C",
+        "text": "Thực hiện khuyến mại liên tục để kích thích người mua"
+      },
+      {
+        "label": "D",
+        "text": "Làm việc với các nhà sản xuất để mua hàng hóa/ dịch vụ"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 172: Hàng điện tử thông dụng được xếp vào nhóm \"Sản phẩm lâu bền, hữu hình\" là phân loại sản phẩm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Theo thời gian và hình thái tồn tại."
+      },
+      {
+        "label": "B",
+        "text": "Theo thói quen mua hàng."
+      },
+      {
+        "label": "C",
+        "text": "Theo công dụng sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "Theo trạng thái tồn tại"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 173: Hoạt động trao đổi mang tính thương mại được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chuyển C. Đổi hàng. giao. D. Bán hàng"
+      },
+      {
+        "label": "B",
+        "text": "Giao dịch."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 174: Môi trường marketing của một doanh nghiệp bao gồm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Những nhân tố nội bộ."
+      },
+      {
+        "label": "B",
+        "text": "Những nhân tố bên ngoài."
+      },
+      {
+        "label": "C",
+        "text": "Cả nhân tố nội bộ và nhân tố bên ngoài."
+      },
+      {
+        "label": "D",
+        "text": "Những nhân tố có thể kiểm soát được."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 175: Một đoạn thị trường sẽ được đánh giá là kém hấp dẫn nếu:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp dễ dàng C. Khó có khả năng thay thế sản thâm nhập. phẩm."
+      },
+      {
+        "label": "B",
+        "text": "Sự gia nhập của các đối D. Người mua ít có khả năng chi thủ mới khá dễ dàng. phối về giá"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 176: Thị trường mục tiêu của doanh nghiệp là đọan thị trường:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp đang cạnh tranh với những người cạnh tranh."
+      },
+      {
+        "label": "B",
+        "text": "Doanh nghiệp đang bán sản phẩm của mình."
+      },
+      {
+        "label": "C",
+        "text": "Doanh nghiệp đang có doanh thu và lợi nhuận cao."
+      },
+      {
+        "label": "D",
+        "text": "Doanh nghiệp lựa chọn hướng mọi nỗ lực marketing vào."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 177: Các tiêu chuẩn đánh giá để lựa chọn thị trường mục tiêu cần dựa vào các tiêu thức sau, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Qui mô và tăng trưởng của thị trường."
+      },
+      {
+        "label": "B",
+        "text": "Sự hấp dẫn của thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Mục tiêu và khả năng của doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Ý đồ của lãnh đạo doanh nghiệp"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 178: Điều nào sau đây đúng với phân đoạn thị trường?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là chia thị trường thành các nhóm khách hàng có các đặc điểm và nhu cầu tương đồng nhau."
+      },
+      {
+        "label": "B",
+        "text": "Cho phép doanh nghiệp xây dựng một chương trình marketing phù hợp với toàn bộ thị trường."
+      },
+      {
+        "label": "C",
+        "text": "Giúp cho doanh nghiệp phân bổ nguồn lực một cách có hiệu quả."
+      },
+      {
+        "label": "D",
+        "text": "Đáp ứng yêu cầu kinh doanh của doanh nghiệp"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 179: Trong một tình huống marketing cụ thể thì marketing là công việc của:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người bán"
+      },
+      {
+        "label": "B",
+        "text": "Người mua"
+      },
+      {
+        "label": "C",
+        "text": "Đồng thời của cả người bán và người mua"
+      },
+      {
+        "label": "D",
+        "text": "Bên nào tích cực hơn trong việc tìm cách trao đổi với bên kia."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 180: Bạn đang chọn hình thức giải trí cho 2 ngày nghỉ cuối tuần sắp tới. Sự lựa chọn đó được quyết định bởi:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự ưa thích của cá nhân bạn"
+      },
+      {
+        "label": "B",
+        "text": "Giá tiền của từng loại hình giải trí"
+      },
+      {
+        "label": "C",
+        "text": "Giá trị của từng loại hình giải trí"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả các điều nêu trên"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 181: Quan điểm marketing định hướng sản xuất cho rằng người tiêu dùng sẽ ưa thích những sản phẩm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Được bán rộng rãi với giá hạ"
+      },
+      {
+        "label": "B",
+        "text": "Được sản xuất bằng dây chuyền công nghệ cao."
+      },
+      {
+        "label": "C",
+        "text": "Có kiểu dáng độc đáo"
+      },
+      {
+        "label": "D",
+        "text": "Có nhiều tính năng mới."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 182: Có thể nói rằng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing và bán hàng là 2 thuật ngữ đồng nghĩa."
+      },
+      {
+        "label": "B",
+        "text": "Marketing và bán hàng là 2 thuật ngữ khác biệt nhau."
+      },
+      {
+        "label": "C",
+        "text": "Bán hàng bao gồm cả Marketing"
+      },
+      {
+        "label": "D",
+        "text": "Marketing bao gồm cả hoạt động bán hàng."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 183: Mong muốn của con người sẽ trở thành yêu cầu khi có:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhu cầu"
+      },
+      {
+        "label": "B",
+        "text": "Sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Năng lực mua sắm"
+      },
+      {
+        "label": "D",
+        "text": "Ước muốn"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 184: Sự hài lòng của khách hàng sau khi sử dụng hàng hoá tuỳ thuộc vào:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá của hàng hoá đó cao hay thấp"
+      },
+      {
+        "label": "B",
+        "text": "Kỳ vọng của người tiêu dùng về sản phẩm đó"
+      },
+      {
+        "label": "C",
+        "text": "So sánh giữa giá trị tiêu dùng và kì vọng về sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "So sánh giữa giá trị tiêu dùng và sự hoàn thiện của sản phẩm."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 185: Trong những điều kiện nêu ra dưới đây, điều kiện nào không nhất thiết phải thoả mãn mà sự trao đổi tự nguyện vẫn diễn ra:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ít nhất phải có 2 bên"
+      },
+      {
+        "label": "B",
+        "text": "Phải có sự trao đổi tiền giữa hai bên"
+      },
+      {
+        "label": "C",
+        "text": "Mỗi bên phải khả năng giao tiếp và giao hàng"
+      },
+      {
+        "label": "D",
+        "text": "Mỗi bên được tự do chấp nhận hoặc từ chối đề nghị (chào hàng) của bên kia."
+      },
+      {
+        "label": "E",
+        "text": "Mỗi bên đều tin tưởng việc giao dịch với bên kia là hợp lý."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 186: Câu nói nào dưới đây thể hiện đúng nhất triết lý kinh doanh theo định hướng Marketing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chúng ta đang cố gắng bán cho khách hàng những sản phẩm hoàn hảo."
+      },
+      {
+        "label": "B",
+        "text": "Khách hàng đang cần sản phẩm A, hãy sản xuất và bán cho khách hàng sản phẩm A"
+      },
+      {
+        "label": "C",
+        "text": "Chi phí cho nguyên vật liệu đầu vào của sản phẩm B đang rất cao, hãy cố giảm nó để bán được nhiều sản phẩm B với giá rẻ hơn."
+      },
+      {
+        "label": "D",
+        "text": "Doanh số đang giảm, hãy tập trung mọi nguồn lực để đẩy mạnh bán hàng."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 187: Theo quan điểm Marketing thị trường của doanh nghiệp là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tập hợp của cả người mua và người bán 1 sản phẩm nhất định"
+      },
+      {
+        "label": "B",
+        "text": "Tập hợp người đã mua hàng của doanh nghiệp"
+      },
+      {
+        "label": "C",
+        "text": "Tập hợp của những nguời mua thực tế và tiềm ẩn"
+      },
+      {
+        "label": "D",
+        "text": "Tập hợp của những người sẽ mua hàng của doanh nghiệp trong tương lai."
+      },
+      {
+        "label": "E",
+        "text": "Không câu nào đúng."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 188: Trong các khái niệm dưới đây, khái niệm nào không phải là triết lý về quản trị Marketing đã được bàn đến trong sách?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản xuất"
+      },
+      {
+        "label": "B",
+        "text": "Sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Dịch vụ"
+      },
+      {
+        "label": "D",
+        "text": "Marke ting"
+      },
+      {
+        "label": "E",
+        "text": "Bán hàng"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 189: Quan điểm ………….. cho rằng người tiêu dùng ưa thích những sản phẩm có chất lượng, tính năng và hình thức tốt nhất và vì vậy doanh nghiệp cần tập trung nỗ lực không ngừng để cải tiến sản phẩm.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản xuất"
+      },
+      {
+        "label": "B",
+        "text": "Sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Dịch vụ"
+      },
+      {
+        "label": "D",
+        "text": "Marketing"
+      },
+      {
+        "label": "E",
+        "text": "Bán hàng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 190: Quan điểm bán hàng được vận dụng mạnh mẽ với",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hàng hoá được sử dụng thường ngày"
+      },
+      {
+        "label": "B",
+        "text": "Hàng hoá được mua có chọn lựa"
+      },
+      {
+        "label": "C",
+        "text": "Hàng hoá mua theo nhu cầu đặc biệt"
+      },
+      {
+        "label": "D",
+        "text": "Hàng hoá mua theo nhu cầu thụ động."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 191: Theo quan điểm Marketing đạo đức xã hội, người làm Marketing cần phải cân đối những khía cạnh nào khi xây dựng chính sách Marketing?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mục đích của doanh nghiệp"
+      },
+      {
+        "label": "B",
+        "text": "Sự thoả mãn của người tiêu dùng"
+      },
+      {
+        "label": "C",
+        "text": "Phúc lợi xã hội"
+      },
+      {
+        "label": "D",
+        "text": "(b) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả những điều nêu trên."
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Câu 192: Triết lý nào về quản trị Marketing cho rằng các công ty cần phải sản xuất cái mà người tiêu dùng mong muốn và như vậy sẽ thoả mãn được người tiêu dùng và thu được lợi nhuận?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan điểm sản xuất"
+      },
+      {
+        "label": "B",
+        "text": "Quanđiểm sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Quan điểm bán hàng"
+      },
+      {
+        "label": "D",
+        "text": "Quan điểm Marketing"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 193: Quản trị Marketing bao gồm các công việc: (1) Phân tích các cơ hội thị trường, (2) Thiết lập chiến lược Marketing, (3) Phân đoạn thị trường và lựa chọn thị trường mục tiêu, (4) Hoạch định chương trình Marketing, (5) Tổ chức thực hiện và kiểm tra các hoạt động Marketing. Trình tự đúng trong quá trình này là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "(1) (2) (3) (4) (5)"
+      },
+      {
+        "label": "B",
+        "text": "(1) (3) (4) (2) (5)"
+      },
+      {
+        "label": "C",
+        "text": "(3) (1) (2) (4) (5)"
+      },
+      {
+        "label": "D",
+        "text": "(1) (3) (2) (4) (5)"
+      },
+      {
+        "label": "E",
+        "text": "Không câu nào đúng"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 194: Chọn từ phù hợp đây hoàn chính khải niệm “Phân đoạn thị trường là quá trình ”",
+    "options": [
+      {
+        "label": "A",
+        "text": "chiến lược marketing-mix cho từng thị trường."
+      },
+      {
+        "label": "B",
+        "text": "Chia thị trường thành những bộ phận miêng biệt, đồng nhất về nhu cần, muỐn và đặc điểm hành vi, C Lựa chon một đoạn thị trường cho sản phẩm của doanh nghiệp nhâm tiêu nhiều nhất và lợi nhuận."
+      },
+      {
+        "label": "D",
+        "text": "Chia một thịtrường tổng thểthành những nhóm nhỏdựa trên những điểm khác biệt vềcầu, ước muốn và đặc điểm hinh vi."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 195: Thuật ngữ với trong khải niệm sau \"Đoạn thị trường là có phân ứng như nhau với một tập hợp những kích thích marketing” А. Một nhóm người bán buôn trên thị trường tổng thể. В.Một nhóm nhà cung ứng trên thị trường tổng thể",
+    "options": [
+      {
+        "label": "C",
+        "text": "Một nhóm khách hàng trên thị trường thể."
+      },
+      {
+        "label": "D",
+        "text": "Một nhóm các doanh nghiệp sản xuất trên thị trường tổng thể. có phân"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 196: Đề tìm kiểm đoạn thị trường quả, việc phân đoạn thị trường cần đảm báo một sỐyếu tỐsau, trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đo lường được và có quy mỏđủlớn"
+      },
+      {
+        "label": "B",
+        "text": "Có thể triệt được"
+      },
+      {
+        "label": "C",
+        "text": "Có tính khả"
+      },
+      {
+        "label": "D",
+        "text": "Không có sựkhác biệt các đoạn thị trường"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 197: Đánh giá chọn thị trường mục tiêu thức sau, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Qui mô và tăng trường của thịtrường."
+      },
+      {
+        "label": "B",
+        "text": "Sự hấp dẫn của thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Mục tiên và khả năng của doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Ý đồ của lãnh đạo doanh nghiệp."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 198: Tiêu thức sau thuộc nhóm nhân khẩu học dùng đoạn thị trường, ngoại trừ",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tuổi tác."
+      },
+      {
+        "label": "B",
+        "text": "Thu nhập"
+      },
+      {
+        "label": "C",
+        "text": "Giới tính."
+      },
+      {
+        "label": "D",
+        "text": "Lối sống."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 199: Định vị sản phẩm thị trường doanh nghiệp cần:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giảm giá sản phám."
+      },
+      {
+        "label": "B",
+        "text": "Giảm chi phí tăng lợi nhuận"
+      },
+      {
+        "label": "C",
+        "text": "Làm cho sản phẩm của doanh nghiệp khác biệt sản phẩm cạnh tranh."
+      },
+      {
+        "label": "D",
+        "text": "Làm cho sản có chất lương cao hơn."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 200: Một thị trường được đánh giá là hấp dẫn nếu",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp khác không dễ thâm nhập"
+      },
+      {
+        "label": "B",
+        "text": "Sựxâm nhập của các đối thủ cạnh tranh mới khá dễ dàng."
+      },
+      {
+        "label": "C",
+        "text": "Khó có khả năng thay thế sản phẩm của doanh nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Người mua ít có khả năng chi phỐi về giá"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 201: Điều nào sau đây đúng với khái niệm thị trường mục trong marketing của doanh nghiệp?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là những nhóm khách hàng doanh nghiệp cần tập trung mọi nỗ lực thu hút."
+      },
+      {
+        "label": "B",
+        "text": "Là những nhóm khách hàng và đang tiêu dùng sản phẩm của doanh nghiệp. C Là những nhóm khách hàng và đang dùng sản phẩm cóa doanh nghiệp và người cạnh tranh."
+      },
+      {
+        "label": "D",
+        "text": "Là những khách hàng có nhu cầu đang tìm kiếm người cung ứng và đang lựa chọn giữa những lời chào hàng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 202: Chiến lược marketing của doanh nghiệp hướng tới một nhóm người tiêu dùng thi gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chiến lược marketing tiêu dùng"
+      },
+      {
+        "label": "B",
+        "text": "Chiến lược marketing mục tiêu"
+      },
+      {
+        "label": "C",
+        "text": "Chiến lược marketing nhằm thúc đẩy bán lẻ"
+      },
+      {
+        "label": "D",
+        "text": "Chiến lược marketing củng cỐ thị trường nội địạ"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 203: Một doanh nghiệp nhỏ với vỐn hạn chế sẽ ít có khả năng nhất để lựa chọn chiến lược đáp ứng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing tập trung."
+      },
+      {
+        "label": "B",
+        "text": "Chuyên môn hoá theo sản phẩm."
+      },
+      {
+        "label": "C",
+        "text": "Chuyên môn hoá theo thị trường"
+      },
+      {
+        "label": "D",
+        "text": "Bao phủ toàn bộ thị trường"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 204: Bước đầu tiên trong quá trình nghiên cứu Marketing là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chuẩn bị phương tiện máy móc để tiến hành xử lý dữ liệu"
+      },
+      {
+        "label": "B",
+        "text": "Xác định vấn đề và mục tiêu cần nghiên cứu."
+      },
+      {
+        "label": "C",
+        "text": "Lập kế hoach nghiên cứu ( hoặc thiết kế dự án nghiên cứu)"
+      },
+      {
+        "label": "D",
+        "text": "Thu thập dữ liệu"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 205: Sau khi thu thập dữ liệu xong, bước tiếp theo trong quá trình nghiên cứu Marketing sẽ là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Báo cáo kết quả thu được."
+      },
+      {
+        "label": "B",
+        "text": "Phân tích thông tin"
+      },
+      {
+        "label": "C",
+        "text": "Tìm ra giải pháp cho vấn đề cần nghiên cứu."
+      },
+      {
+        "label": "D",
+        "text": "Chuyển dữ liệu cho nhà quản trị Marketing để họ xem xét."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 206: Dữ liệu thứ cấp là dữ liệu:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có tầm quan trọng thứ nhì"
+      },
+      {
+        "label": "B",
+        "text": "Đã có sẵn từ trước đây"
+      },
+      {
+        "label": "C",
+        "text": "Được thu thập sau dữ liệu sơ cấp"
+      },
+      {
+        "label": "D",
+        "text": "(b) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Không câu nào đúng."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 207: Câu nào trong các câu sau đây đúng nhất khi nói về nghiên cứu Marketing:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nghiên cứu Marketing luôn tốn kém vì chi phí tiến hành phỏng vấn rất cao."
+      },
+      {
+        "label": "B",
+        "text": "Các doanh nghiệp cần có một bộ phận nghiên cứu Marketing cho riêng mình."
+      },
+      {
+        "label": "C",
+        "text": "Nghiên cứu Marketing có phạm vi rộng lớn hơn so với nghiên cứu khách hàng."
+      },
+      {
+        "label": "D",
+        "text": "Nhà quản trị Marketing coi nghiên cứu Marketing là định hướng cho mọi quyết định."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 208: Có thể thu thập dữ liệu thứ cấp từ các nguồn:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bên trong doanh nghiệp"
+      },
+      {
+        "label": "B",
+        "text": "Bên ngoài doanh nghiệp"
+      },
+      {
+        "label": "C",
+        "text": "Cả bên trong và bên ngoài doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Thăm dò khảo sát"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 209: Nghiên cứu Marketing nhằm mục đích:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mang lại những thông tin về môi trường Marketing và chính sách Marketing của doanh nghiệp."
+      },
+      {
+        "label": "B",
+        "text": "Thâm nhập vào một thị trường nào đó"
+      },
+      {
+        "label": "C",
+        "text": "Để tổ chức kênh phân phối cho tốt hơn"
+      },
+      {
+        "label": "D",
+        "text": "Để bán được nhiều sản phẩm với giá cao hơn."
+      },
+      {
+        "label": "E",
+        "text": "Để làm phong phú thêm kho thông tin của doanh nghiệp"
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 210: Dữ liệu so cấp có thể thu thập được bằng cách nào trong các cách dưới đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan sát"
+      },
+      {
+        "label": "B",
+        "text": "Thực nghiệm"
+      },
+      {
+        "label": "C",
+        "text": "Điềutra phỏng vấn."
+      },
+      {
+        "label": "D",
+        "text": "(b) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả các cách nêu trên."
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Câu 211: Câu hỏi đóng là câu hỏi:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chỉ có một phương án trả lời duy nhất"
+      },
+      {
+        "label": "B",
+        "text": "Kết thúc bằng dấu chấm câu."
+      },
+      {
+        "label": "C",
+        "text": "Các phương án trả lời đã được liệt kê ra từ trước."
+      },
+      {
+        "label": "D",
+        "text": "Không đưa ra hết các phương án trả lời."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 212: Trong các câu sau đây, câu nào không phải là ưu điểm của dữ liệu sơ cấp so với dữ liệu thứ cấp:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tính cập nhật cao hơn"
+      },
+      {
+        "label": "B",
+        "text": "Chi phí tìm kiếm thấp hơn"
+      },
+      {
+        "label": "C",
+        "text": "Độ tin cậy cao hơn"
+      },
+      {
+        "label": "D",
+        "text": "Khi đã thu thập xong thì việc xử lý dữ liệu sẽ nhanh hơn."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 213: Trong các cách điều tra phỏng vấn sau đây, cách nào cho độ tin cậy cao nhất và thông tin thu được nhiều nhất?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phỏng vấn qua điện thoại"
+      },
+      {
+        "label": "B",
+        "text": "Phỏng vấn bằng thư tín."
+      },
+      {
+        "label": "C",
+        "text": "Phỏng vấn trực tiếp cá nhân"
+      },
+      {
+        "label": "D",
+        "text": "Phỏng vấn nhóm."
+      },
+      {
+        "label": "E",
+        "text": "Không có cách nào đảm bảo cả hai yêu cầu trên"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 214: Câu nào sau đây là đúng khi so sánh phỏng vấn qua điện thoại và phỏng vấn qua bưu điện (thư tín)?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thông tin phản hồi nhanh hơn."
+      },
+      {
+        "label": "B",
+        "text": "Số lượng thông tin thu đuợc nhiều hơn đáng kể."
+      },
+      {
+        "label": "C",
+        "text": "Chi phí phỏng vấn cao hơn."
+      },
+      {
+        "label": "D",
+        "text": "Có thể đeo bám dễ dàng hơn."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 215: Các thông tin Marketing bên ngoài được cung cấp cho hệ thông thông tin của doanh nghiệp, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thông tin tình báo cạnh tranh."
+      },
+      {
+        "label": "B",
+        "text": "Thông tin từ các báo cáo lượng hàng tồn kho của các đại lý phân phối."
+      },
+      {
+        "label": "C",
+        "text": "Thông tin từ các tổ chức dịch vụ cung cấp thông tin."
+      },
+      {
+        "label": "D",
+        "text": "Thông tin từ lực lượng công chúng đông đảo."
+      },
+      {
+        "label": "E",
+        "text": "Thông tin từ các cơ quan nhà nước."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 216: Câu hỏi mà các phương án trả lời chưa được đưa ra sẵn trong bảng câu hỏi thì câu hỏi đó thuộc loại câu hỏi?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Câu hỏi đóng"
+      },
+      {
+        "label": "B",
+        "text": "Câu hỏi mở"
+      },
+      {
+        "label": "C",
+        "text": "Có thể là câu hỏi đóng, có thể là câu hỏi mở."
+      },
+      {
+        "label": "D",
+        "text": "Câu hỏi cấu trúc."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 217: Thứ tự đúng của các bước nhỏ trong bước 1 của quá trình nghiên cứu Marketing là gì?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Vấn đề quản trị, mục tiêu nghiên cứu, vấn đề nghiên cứu."
+      },
+      {
+        "label": "B",
+        "text": "Vấn đề nghiên cứu, mục tiêu nghiên cứu, vấn đề quản trị."
+      },
+      {
+        "label": "C",
+        "text": "Mục tiêu nghiên cứu, vấn đề nghiên cứư, vấn đề quản trị."
+      },
+      {
+        "label": "D",
+        "text": "Vấn đề quản trị, vấn đề nghiên cứu, mục tiêu nghiên cứu."
+      },
+      {
+        "label": "E",
+        "text": "Không có đáp án đúng."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 218: Một cuộc nghiên cứu Marketing gần đây của doanh nghiệp X đã xác định được rằng nếu giá bán của sản phẩm tăng 15% thì doanh thu sẽ tăng 25%; cuộc nghiên cứu đó đã dùng phương pháp nghiên cứu nào trong các phương pháp nghiên cứu sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan sát"
+      },
+      {
+        "label": "B",
+        "text": "Thực nghiệm"
+      },
+      {
+        "label": "C",
+        "text": "Phỏng vấn trực tiếp cá nhân"
+      },
+      {
+        "label": "D",
+        "text": "Thăm dò"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 219: Trong các yếu tố sau đây, yếu tố nào không thuộc về môi trường Marketing vi mô của doanh nghiệp?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các trung gian Marketing"
+      },
+      {
+        "label": "B",
+        "text": "Khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Tỷ lệ lạm phát hàng năm."
+      },
+      {
+        "label": "D",
+        "text": "Đối thủ cạnh tranh."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 220: Môi trường Marketing vĩ mô được thể hiện bởi những yếu tố sau đây, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dân số"
+      },
+      {
+        "label": "B",
+        "text": "Thu nhập của dân cư."
+      },
+      {
+        "label": "C",
+        "text": "Lợi thế cạnh tranh."
+      },
+      {
+        "label": "D",
+        "text": "Các chỉ số về khả năng tiêu dùng."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 221: Trong các đối tượng sau đây, đối tượng nào là ví dụ về trung gian Marketing ?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đốithủ cạnh tranh."
+      },
+      {
+        "label": "B",
+        "text": "Công chúng."
+      },
+      {
+        "label": "C",
+        "text": "Những người cung ứng."
+      },
+      {
+        "label": "D",
+        "text": "Công ty vận tải, ô tô."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 222: Tín ngưỡng và các giá trị ……… rất bền vững và ít thay đổi nhất.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhân khẩu"
+      },
+      {
+        "label": "B",
+        "text": "Sơ cấp"
+      },
+      {
+        "label": "C",
+        "text": "Nhánh văn hoá"
+      },
+      {
+        "label": "D",
+        "text": "Nền văn hoá"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 223: Các nhóm bảo vệ quyền lợi của dân chúng không bênh vực cho:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chủ nghĩa tiêu dùng."
+      },
+      {
+        "label": "B",
+        "text": "Chủ trương bảo vệ môi trường của chính phủ."
+      },
+      {
+        "label": "C",
+        "text": "Sự mở rộng quyền hạn của các dân tộc thiểu số"
+      },
+      {
+        "label": "D",
+        "text": "Một doanh nghiệp trên thị trường tự do."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 224: Văn hoá là một yếu tố quan trọng trong Marketing hiện đại vì:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Không sản phẩm nào không chứa đựng những yếu tố văn hoá."
+      },
+      {
+        "label": "B",
+        "text": "Hành vi tiêu dùng của khách hàng ngày càng giống nhau."
+      },
+      {
+        "label": "C",
+        "text": "Nhiệm vụ của người làm Marketing là điều chỉnh hoạt động marketing đúng với yêu cầu của văn hoá."
+      },
+      {
+        "label": "D",
+        "text": "Trên thế giới cùng với quá trình toàn cầu hoá thi văn hoá giữa các nước ngày càng có nhiều điểm tương đồng."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 225: Môi trường Marketing của một doanh nghiệp có thể được định nghĩa là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một tập hợp của những nhân tố có thể kiểm soát được."
+      },
+      {
+        "label": "B",
+        "text": "Một tập hợp của những nhân tố không thể kiểm soát được."
+      },
+      {
+        "label": "C",
+        "text": "Một tập hợp của những nhân tố bên ngoài doanh nghiệp đó."
+      },
+      {
+        "label": "D",
+        "text": "Một tập hợp của những nhân tố có thể kiểm soát được và không thể kiểm soát được."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 226: Những nhóm người được xem là công chúng tích cực của 1 doanh nghiệp thường có đặc trưng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp đang tìm sự quan tâm của họ."
+      },
+      {
+        "label": "B",
+        "text": "Doanh nghiệp đang thu hút sự chú ý của họ."
+      },
+      {
+        "label": "C",
+        "text": "Họ quan tâm tới doanh nghiệp với thái độ thiện chí."
+      },
+      {
+        "label": "D",
+        "text": "Họ quan tâm tới doanh nghiệp vì họ có nhu cầu đối với sản phẩm của doanh nghiệp."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 227: Khi phân tích môi trường bên trong doanh nghiệp, nhà phân tích sẽ thấy được:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cơ hội và nguy cơ đối với doanh nghiệp."
+      },
+      {
+        "label": "B",
+        "text": "Điểm mạnh và điểm yếu của doanh nghiệp"
+      },
+      {
+        "label": "C",
+        "text": "Cơ hội và điểm yếu của doanh nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Điểm mạnh và nguy cơ của doanh nghiệp"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả điểm mạnh, điểm yếu, cơ hội, nguy cơ."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 228: Trong các yếu tố sau, yếu tố nào không thuộc phạm vi của môi trường nhân khẩu học:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quy mô và tốc độ tăng dân số."
+      },
+      {
+        "label": "B",
+        "text": "Cơ cấu tuổi tác trong dân cư."
+      },
+      {
+        "label": "C",
+        "text": "Cơ cấu của ngành kinh tế."
+      },
+      {
+        "label": "D",
+        "text": "Thay đổi quy mô hộ gia đình."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 229: Khi Marketing sản phẩm trên thị trường, yếu tố địa lý và yếu tố khí hậu ảnh hưởng quan trọng nhất dưới góc độ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thu nhập của dân cư không đều."
+      },
+      {
+        "label": "B",
+        "text": "Đòi hỏi sự thích ứng của sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Nhu cầu của dân cư khác nhau."
+      },
+      {
+        "label": "D",
+        "text": "Không tác động nhiều đến hoạt động Marketing."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 230: Đối thủ cạnh tranh của dầu gội đầu Clear là tất cả các sản phẩm dầu gội đầu khác trên thị trường. Việc xem xét đối thủ cạnh tranh như trên đây là thuộc cấp độ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cạnh tranh mong muốn."
+      },
+      {
+        "label": "B",
+        "text": "Cạnh tranh giữa các loại sản phẩm."
+      },
+      {
+        "label": "C",
+        "text": "Cạnh tranh trong cùng loại sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "Cạnh tranh giữa các nhãn hiệu."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 231: Các tổ chức mua hàng hoá và dịch vụ cho quá trình sản xuất để kiếm lợi nhuận và thực hiện các mục tiêu đề ra được gọi là thị trường ……",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mua đi bán lại."
+      },
+      {
+        "label": "B",
+        "text": "Quốc tế."
+      },
+      {
+        "label": "C",
+        "text": "Công nghiệp."
+      },
+      {
+        "label": "D",
+        "text": "Tiêu dùng."
+      },
+      {
+        "label": "E",
+        "text": "Chính quyền."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 232: Trong các yếu tố sau đây, yếu tố nào không phải là tác nhân môi trường có thể ảnh hưởng đến hành vi mua của người tiêu dung?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kinh tế"
+      },
+      {
+        "label": "B",
+        "text": "Văn hoá"
+      },
+      {
+        "label": "C",
+        "text": "Chính trị"
+      },
+      {
+        "label": "D",
+        "text": "Khuyến mại"
+      },
+      {
+        "label": "E",
+        "text": "Không câu nào đúng."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 233: Gia đình, bạn bè, hàng xóm, đồng nghiệp… là ví dụ về các nhóm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Th ứ cấp"
+      },
+      {
+        "label": "B",
+        "text": " Sơ cấp"
+      },
+      {
+        "label": "C",
+        "text": "Tham khảo trực tiếp"
+      },
+      {
+        "label": "D",
+        "text": "(b) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "(b) và (a)"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 234: Một khách hàng đã có ý định mua chiếc xe máy A nhưng lại nhận được thông tin từ một người bạn của mình là dịch vụ bảo dưỡng của hãng này không được tốt lắm. Thông tin trên là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một loại nhiễu trong thông điệp"
+      },
+      {
+        "label": "B",
+        "text": "Một yếu tố cản trở quyết định mua hàng."
+      },
+      {
+        "label": "C",
+        "text": "Một yếu tố cân nhắc trước khi sử dụng"
+      },
+      {
+        "label": "D",
+        "text": "Thông tin thứ cấp."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 235: Khi một cá nhân cố gắng điều chỉnh các thông tin thu nhận được theo ý nghĩ của anh ta thì quá trình nhận thức đó là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bảo lưu có chọn lọc"
+      },
+      {
+        "label": "B",
+        "text": "Tri giác có chọn lọc"
+      },
+      {
+        "label": "C",
+        "text": "Bóp méo có chọn lọc."
+      },
+      {
+        "label": "D",
+        "text": "Lĩnh hội có chọn lọc."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 236: Khái niệm “động cơ” được hiểu là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hành vi mang tính định hướng."
+      },
+      {
+        "label": "B",
+        "text": "Nhu cầu có khả năng thanh toán."
+      },
+      {
+        "label": "C",
+        "text": "Nhu cầu đã trở nên bức thiết buộc con người phải hành động để thoả mãn nhu cầu đó."
+      },
+      {
+        "label": "D",
+        "text": "Tác nhân kích thích của môi trường."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 237: Một khách hàng có thể không hài lòng với sản phẩm mà họ đã mua và sử dung; trạng thái cao nhất của sự không hài lòng được biểu hiẹn bằng thái độ nào sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tìm kiếm sản phẩm khác thay thế cho sản phẩm vừa mua trong lần mua kế tiếp."
+      },
+      {
+        "label": "B",
+        "text": "Không mua lại tất cả các sản phẩm khác của doanh nghiệp đó."
+      },
+      {
+        "label": "C",
+        "text": "Tẩy chay và truyền tin không tốt về sản phẩm đó."
+      },
+      {
+        "label": "D",
+        "text": "Phàn nàn với Ban lãnh đạo doanh nghiệp"
+      },
+      {
+        "label": "E",
+        "text": "Viết thư hoặc gọi điện theo đường dây nóng cho doanh nghiệp."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 238: Theo lý thuyết của Maslow, nhu cầu của con người được sắp xếp theo thứ bậc nào?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sinh lý, an toàn, được tôn trọng, cá nhân, tự hoàn thiện."
+      },
+      {
+        "label": "B",
+        "text": "An toàn, sinh lý, tự hoàn thiện, được tôn trọng, cá nhân."
+      },
+      {
+        "label": "C",
+        "text": "Sinh lý, an toàn, xã hội, được tôn trọng, tự hoàn thiện."
+      },
+      {
+        "label": "D",
+        "text": "Không câu nào đúng."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 239: Một người mà các quyết định của anh ta tác động đến quyết định cuối cùng của người khác được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người quyết định"
+      },
+      {
+        "label": "B",
+        "text": "Người ảnh hưởng"
+      },
+      {
+        "label": "C",
+        "text": "Người khởi xướng."
+      },
+      {
+        "label": "D",
+        "text": "Người mua sắm."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 240: Tập hợp các quan điểm theo niềm tin của một khách hàng về một nhãn hiệu sản phẩm nào đó được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các thuộc tính nổi bật."
+      },
+      {
+        "label": "B",
+        "text": "Các chức năng hữu ích"
+      },
+      {
+        "label": "C",
+        "text": "Các giá trị tiêu dùng."
+      },
+      {
+        "label": "D",
+        "text": "Hình ảnh về nhãn hiệu."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 241: Theo định nghĩa, ………của một con người được thể hiện qua sự quan tâm, hành động, quan điểm về các nhân tố xung quanh.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhân cách."
+      },
+      {
+        "label": "B",
+        "text": "Tâm lý."
+      },
+      {
+        "label": "C",
+        "text": "Quan niệm của bản thân."
+      },
+      {
+        "label": "D",
+        "text": "Niềm tin."
+      },
+      {
+        "label": "E",
+        "text": "Lối sống."
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Câu 242: Hành vi mua của tổ chức khác với hành vi mua của người tiêu dùng ở chỗ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các tổ chức mua nhiều loại sản phẩm hơn."
+      },
+      {
+        "label": "B",
+        "text": "Các tổ chức khi mua thì có nhiều người tham gia vào quá trình mua hơn."
+      },
+      {
+        "label": "C",
+        "text": "Những hợp đồng, bảng báo giá … thường không nhiều trong hành vi mua của người tiêu dùng."
+      },
+      {
+        "label": "D",
+        "text": "Người tiêu dùng là người chuyên nghiệp hơn."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 243: Hai khách hàng có cùng động cơ như nhau nhưng khi vào cùng một cửa hàng thì lại có sự lựa chọn khác nhau về nhãn hiệu sản phẩm, đó là do họ có sựkhác nhau về:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sự chú ý."
+      },
+      {
+        "label": "B",
+        "text": "Nhận thức."
+      },
+      {
+        "label": "C",
+        "text": "Thái độ và niềm tin"
+      },
+      {
+        "label": "D",
+        "text": "Không câu nào đúng."
+      },
+      {
+        "label": "E",
+        "text": "Tất cả đều đúng."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 244: Trong giai đoạn tìm kiếm thông tin, người tiêu dùng thường nhận được thông tin từ nguồn thông tin…… nhiều nhất, nhưng nguồn thông tin ….. lại có vai trò quan trọng cho hành động mua.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cá nhân/ Đại chúng."
+      },
+      {
+        "label": "B",
+        "text": "Thương mại/ Đại chúng."
+      },
+      {
+        "label": "C",
+        "text": "Thương mại/ Cá nhân."
+      },
+      {
+        "label": "D",
+        "text": "Đại chúng/ Thương mại."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 245: Ảnh hưởng của người vợ và người chồng trong các quyết định mua hàng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phụ thuộc vào việc người nào có thu nhập cao hơn."
+      },
+      {
+        "label": "B",
+        "text": "Thường là như nhau."
+      },
+      {
+        "label": "C",
+        "text": "Thường thay đổi tuỳ theo từng sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "Thường theo ý người vợ vì họ là người mua hàng."
+      },
+      {
+        "label": "E",
+        "text": "Thường theo ý người chồng nếu người vợ không đi làm."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 246: Trong các câu sau đây, câu nào là không đúng khi so sánh sự khác nhau giữa việc mua hàng của doanh nghiệp và việc mua hàng của người tiêu dùng cuối cùng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Số lượng người mua ít hơn."
+      },
+      {
+        "label": "B",
+        "text": "Quan hệ lâu dài và gắn bó giữa khách hàng và nhà cung cấp."
+      },
+      {
+        "label": "C",
+        "text": "Vấn đề thương lượng ít quan trọng hơn."
+      },
+      {
+        "label": "D",
+        "text": "Mang tính rủi ro phức tạp hơn."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 247: Marketing mục tiêu phải được tiến hành theo 4 bước lớn. Công việc nào được nêu dưới đây không phải là một trong các bước đó.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Định vị thị trường."
+      },
+      {
+        "label": "B",
+        "text": "Soạn thảo hệ thống Marketing Mix cho thị trường mục tiêu"
+      },
+      {
+        "label": "C",
+        "text": "Phân đoạn thị trường"
+      },
+      {
+        "label": "D",
+        "text": "Phân chia sản phẩm."
+      },
+      {
+        "label": "E",
+        "text": "Lựa chọn thị trường mục tiêu."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 248: Ba doanh nghiệp X, Y, Z hoạt động cạnh tranh trong một ngành mà mức tiêu thụ hàng hoá như sau: Doanh nghiệp X: 80.000USD. Doanh nghiệp Y: 75.000USD; Doanh nghiệp Z: 45.000USD. Theo cách tính cơ bản thì thị phần của doanh nghiệp Y sẽ là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "40%"
+      },
+      {
+        "label": "B",
+        "text": "42,5%"
+      },
+      {
+        "label": "C",
+        "text": "37,5%"
+      },
+      {
+        "label": "D",
+        "text": "35%"
+      },
+      {
+        "label": "E",
+        "text": "Không câu nào đúng"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 249: Sự trung thành của khách hàng là một ví dụ cụ thể về tiêu thức ……. để phân đoạn thị trường:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Địa lý"
+      },
+      {
+        "label": "B",
+        "text": "Xã hội"
+      },
+      {
+        "label": "C",
+        "text": "Tâm lý"
+      },
+      {
+        "label": "D",
+        "text": "Hành vi"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 250: Theo khái niệm đoạn thị trường thì “Đoạn thị trường là một nhóm ….. có phản ứng như nhau đối với một tập hợp những kích thích Marketing”.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thị trường"
+      },
+      {
+        "label": "B",
+        "text": "Khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Người tiêu dùng"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả đúng"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 251: Marketing có phân biệt:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Diễn ra khi một doanh nghiệp quyết định hoạt động trong một số đoạn thị trường và thiết kế chương trình Marketing Mix cho riêng từng đoạn thị trường đó."
+      },
+      {
+        "label": "B",
+        "text": "Có thể làm tăng doanh số bán ra so với áp dụng Marketing không phân biệt."
+      },
+      {
+        "label": "C",
+        "text": "Có thể làm tăng chi phí so với Marketing không phân biệt."
+      },
+      {
+        "label": "D",
+        "text": "(b) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả các điều trên."
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Câu 252: Tất cả những tiêu thức sau đây thuộc nhóm tiêu thức nhân khẩu học dùng để phân đoạn thị trường ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tuổi tác"
+      },
+      {
+        "label": "B",
+        "text": "Thu nhập"
+      },
+      {
+        "label": "C",
+        "text": "Giới tính"
+      },
+      {
+        "label": "D",
+        "text": "Lối sống"
+      },
+      {
+        "label": "E",
+        "text": "Chu kì của cuộc sống gia đình."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 253: Marketing tập trung:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mang tính rủi ro cao hơn mứa độ thông thường."
+      },
+      {
+        "label": "B",
+        "text": "Đòi hỏi chi phí lớn hơn bình thường"
+      },
+      {
+        "label": "C",
+        "text": "Bao hàm việc theo đuổi một đoạn thị trường trong một thị trường lớn"
+      },
+      {
+        "label": "D",
+        "text": "(a) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả các điều trên."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 254: Một doanh nghiệp có quy mô nhỏ, năng lực không lớn, kinh doanh một sản phẩm mới trên một thị trường không đồng nhất nên chọn:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chiến lược Marketing phân biệt"
+      },
+      {
+        "label": "B",
+        "text": "Chiến lược Marketing không phân biệt"
+      },
+      {
+        "label": "C",
+        "text": "Chiến lược Marketing tập trung"
+      },
+      {
+        "label": "D",
+        "text": "Chiến lược phát triển sản phẩm."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 255: Đâu là ưu điểm của chiến lược Marketing không phân biệt?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giúp tiết kiệm chi phí."
+      },
+      {
+        "label": "B",
+        "text": "Gặp phải cạnh tranh khốc liệt"
+      },
+      {
+        "label": "C",
+        "text": "Đặc biệt phù hợp với những doanh nghiệp bị hạn chế về nguồn lực."
+      },
+      {
+        "label": "D",
+        "text": "(a) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả các điều nêu trên"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 256: Điều kiện nào sau đây không phải là tiêu chuẩn xác đáng để đánh giá mức độ hấp dẫn của một đoạn thị trường?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mức tăng trưởng phù hợp"
+      },
+      {
+        "label": "B",
+        "text": "Quy mô càng lớn càng tốt"
+      },
+      {
+        "label": "C",
+        "text": "Phù hợp với nguồn lực của doanh nghiệp"
+      },
+      {
+        "label": "D",
+        "text": "Mức độ cạnh tranh thấp."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 257: Nếu trên một thị trường mà mức độ đồng nhất của sản phẩm rất cao thì doanh nghiệp nên áp dụng chiến lược:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing không phân biệt"
+      },
+      {
+        "label": "B",
+        "text": "Marketing phân biệt"
+      },
+      {
+        "label": "C",
+        "text": "Marketing tập trung."
+      },
+      {
+        "label": "D",
+        "text": "Bất kì chiến lược nào cũng được."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 258: Vị thế của sản phẩm trên thị trường là mức độ đánh giá của …. về các thuộc tính quan trọng của nó.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Khách hàng."
+      },
+      {
+        "label": "B",
+        "text": "Ngườisản xuất."
+      },
+      {
+        "label": "C",
+        "text": "Người bán buôn."
+      },
+      {
+        "label": "D",
+        "text": "Người bán lẻ"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 259: Nếu doanh nghiệp quyết định bỏ qua những khác biệt của các đoạn thị trường và thâm nhập toàn bộ thị trường lớn với một sản phẩm thống nhất thì điều đó có nghĩa là doanh nghiệp thực hiện Marketing ……",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đa dạng hoá sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Đại trà."
+      },
+      {
+        "label": "C",
+        "text": "Mục tiêu"
+      },
+      {
+        "label": "D",
+        "text": "Thống nhất."
+      },
+      {
+        "label": "E",
+        "text": "Không câu nào đúng."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 260: Quá trình trong đó người bán phân biệt các đoạn thị trường, chọn một hay vài đoạn thị trường làm thị trường mục tiêu, đồng thời thiết kế hệ thông Marketing Mix cho thị trường mục tiêu được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Marketing đại trà"
+      },
+      {
+        "label": "B",
+        "text": "Marketing mục tiêu"
+      },
+      {
+        "label": "C",
+        "text": "Marketing đa dạng hoá sản phẩm."
+      },
+      {
+        "label": "D",
+        "text": "Marketing phân biệt theo người tiêu dùng."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 261: Trong thông báo tuyển sinh năm học 2004 của trường Đại Học Thăng Long có câu: “Trải qua hơn 15 năm từ khi thành lập đến nay, Đại học Thăng Long luôn lấy việc đảm bảo chất lượng đào tạo làm trọng”. Câu nói này có tác dụng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quảng cáo đơn thuần"
+      },
+      {
+        "label": "B",
+        "text": "Nhắc nhở sinh viên và giảng viên cần cố gắng"
+      },
+      {
+        "label": "C",
+        "text": "Định vị hình ảnh của trường trong xã hội."
+      },
+      {
+        "label": "D",
+        "text": "Không có các tác dụng trên."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 262: Sản phẩm có thể là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Một vật thể"
+      },
+      {
+        "label": "B",
+        "text": "Một ý tưởng"
+      },
+      {
+        "label": "C",
+        "text": "Một dịch vụ"
+      },
+      {
+        "label": "D",
+        "text": "(a) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả những điều trên"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Câu 263: Có thể xem xét một sản phẩm dưới 3 cấp độ. Điểm nào trong các điểm dưới đây không phải là một trong 3 cấp độ đó.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sản phẩm hiện thực"
+      },
+      {
+        "label": "B",
+        "text": "Sản phẩm hữu hình"
+      },
+      {
+        "label": "C",
+        "text": "Sản phẩm bổ xung"
+      },
+      {
+        "label": "D",
+        "text": "Những lợi ích cơ bản"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 264: Việc đặt tên, nhãn hiệu riêng cho từng sản phẩm của doanh nghiệp có ưu điểm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cung cấp thông tin về sự khác biệt của từng loại sản phẩm."
+      },
+      {
+        "label": "B",
+        "text": "Giảm chi phí quảng cáo khi tung ra sản phẩm mới thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Không ràng buộc uy tín của doanh nghiệp với một sản phẩm cụ thể."
+      },
+      {
+        "label": "D",
+        "text": "(a) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả đều đúng."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 265: Các sản phẩm mà khi mua khách hàng luôn so sánh về chất lượng, giá cả, kiểu dáng … được gọi là sản phẩm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mua theo nhu cầu đặc biệt"
+      },
+      {
+        "label": "B",
+        "text": "Mua có lựa chọn"
+      },
+      {
+        "label": "C",
+        "text": "Mua theo nhu cầu thụ động"
+      },
+      {
+        "label": "D",
+        "text": "Sử dụng thường ngày."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 266: Điều nào sau đây cho thấy bao gói hàng hoá trong điều kiện kinh doanh hiện nay là cần thiết ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các hệ thống cửa hàng tự phục vụ ra đời ngày càng nhiều."
+      },
+      {
+        "label": "B",
+        "text": "Khách hàng sẵn sàng trả nhiều tiền hơn khi mua hàng hoá, miễn là nó tiện lợi và sang trọng hơn."
+      },
+      {
+        "label": "C",
+        "text": "Bao gói góp phần tạo nên hình ảnh của doanh nghiệp và của nhãn hiệu hàng hoá"
+      },
+      {
+        "label": "D",
+        "text": "Bap gói tạo khả năng và ý niệm về sự cải tiến hàng hoá"
+      },
+      {
+        "label": "E",
+        "text": "Bao gói làm tăng giá trị sử dụng của hàng hoá."
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Câu 267: Bộ phận nhãn hiệu sản phẩm có thể nhận biết được nhưng không thể đọc được là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dấu hiệu của nhãn hiệu"
+      },
+      {
+        "label": "B",
+        "text": "Tên nhãn hiệu"
+      },
+      {
+        "label": "C",
+        "text": "Dấu hiệu đã đăng kí"
+      },
+      {
+        "label": "D",
+        "text": "Bản quyền"
+      },
+      {
+        "label": "E",
+        "text": "Các ưu điểm trên đều sai."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 268: Ưu điểm của việc vận dụng chiến lược đặt tên nhãn hiệu cho riêng từng loại sản phẩm là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Danh tiếng của doanh nghiệp không gắn liền với mức độ chấp nhận sản phẩm."
+      },
+      {
+        "label": "B",
+        "text": "Chi phí cho việc giới thiệu sản phẩm là thấp hơn"
+      },
+      {
+        "label": "C",
+        "text": "Việc giới thiệu sản phẩm mới dễ dàng hơn."
+      },
+      {
+        "label": "D",
+        "text": "(a) và (b)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả đều đúng."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 269: Bao gói tốt có thể là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bảo vệ sản phẩm"
+      },
+      {
+        "label": "B",
+        "text": "Khuếch trương sản phẩm"
+      },
+      {
+        "label": "C",
+        "text": "Tự bán được sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả các điều nêu trên"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 270: Việc một số hãng mỹ phẩm Hàn Quốc mang các sản phẩm đã ở giai đoạn cuối của chu kì sống tại thị trường Hàn Quốc sang thị trường Việt Nam thì đã:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Làm giảm chi phí nghiên cứu và triển khai sản phẩm mới"
+      },
+      {
+        "label": "B",
+        "text": "Tạo cho những sản phẩm đó một chu kì sống mới"
+      },
+      {
+        "label": "C",
+        "text": "Giảm chi phí Marketing sản phẩm mới"
+      },
+      {
+        "label": "D",
+        "text": "Làm tăng doanh số bán sản phẩm."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 271: Thứ tự đúng của các giai đoạn trong chu kì sống của sản phẩm là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tăng trưởng, bão hoà, triển khai, suy thoái"
+      },
+      {
+        "label": "B",
+        "text": "Triển khai, bão hoà, tăng trưởng, suy thoái"
+      },
+      {
+        "label": "C",
+        "text": "Tăng trưởng, suy thoái, bão hoà, triển khai"
+      },
+      {
+        "label": "D",
+        "text": "Không câu nào đúng."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 272: Trong một chu kì sống của một sản phẩm, giai đoạn mà sản phẩm được bán nhanh trên thị truờng và mức lợi nhuận tăng nhanh được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bão hoà"
+      },
+      {
+        "label": "B",
+        "text": "Triển khai"
+      },
+      {
+        "label": "C",
+        "text": "Tăng trưởng"
+      },
+      {
+        "label": "D",
+        "text": "Suy thoái"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 273: Công việc nào trong các công việc sau đây mà nhà làm Marketing không nên tiến hành nếu sản phẩm đang ở giai đoạn tăng trưởng của nó?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giữ nguyên hoặc nâng cao chất lượng sản phẩm."
+      },
+      {
+        "label": "B",
+        "text": "Tiếp tục thông tin mạnh mẽ về sản phẩm cho công chúng."
+      },
+      {
+        "label": "C",
+        "text": "Đánh giá và lựa chọn lại các kênh phân phối"
+      },
+      {
+        "label": "D",
+        "text": "Đưa sản phẩm vào thị trường mới."
+      },
+      {
+        "label": "E",
+        "text": "Thay đổi đôi chút về thông điệp quảng cáo."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 274: Các sản phẩm tham gia hoàn toàn vào thành phần sản phẩm của nhà sản xuất được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tàisản cố định"
+      },
+      {
+        "label": "B",
+        "text": "Vật tư dịchvụ"
+      },
+      {
+        "label": "C",
+        "text": "Nguyên vật liệu."
+      },
+      {
+        "label": "D",
+        "text": "Thiết bị phụ trợ"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 275: Chất lượng sản phẩm là một trong các công cụ để định vị thị trường, vì vậy chất lượng sản phẩm có thể được đo lường bằng sự chấp nhận của:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhà sản xuất"
+      },
+      {
+        "label": "B",
+        "text": "Đốithủ cạnh tranh"
+      },
+      {
+        "label": "C",
+        "text": "Khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Đại lý tiêu thụ"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 276: Đường cầu về một sản phẩm:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phản ánh mối quan hệ giữa giá bán và lượng cầu."
+      },
+      {
+        "label": "B",
+        "text": "Thường có chiều dốc xuống."
+      },
+      {
+        "label": "C",
+        "text": "Luôn cho thấy là khi giá càng cao thì lượng cầu càng giảm."
+      },
+      {
+        "label": "D",
+        "text": "(a) và (b)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả những điều nêu trên."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 277: Các nghiên cứu về mặt hàng gạo cho thấy là khi gạo tăng giá thì lượng cầu về gạo giảm nhẹ. Nhưng tổng doanh thu bán gạo vẫn tăng lên. Đường cầu mặt hàng gạo là đường cầu:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đi lên"
+      },
+      {
+        "label": "B",
+        "text": "Co giãn thống nhất C. *Ít co giãn theo giá"
+      },
+      {
+        "label": "D",
+        "text": "Co giãn theo giá"
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 278: Khi một doanh nghiệp gặp khó khăn do cạnh tranh gay gắt hoặc do nhu cầu thị trường thay đổi quá đột ngột, không kịp ứng phó thì doanh nghiệp nên theo đuổi mục tiêu:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dẫn đầu về thị phần"
+      },
+      {
+        "label": "B",
+        "text": "Dẫn đầu về chất lượng"
+      },
+      {
+        "label": "C",
+        "text": "Tối đa hoá lợi nhuận hiện thời"
+      },
+      {
+        "label": "D",
+        "text": "Đảm bảo sống sót"
+      },
+      {
+        "label": "E",
+        "text": "Mục tiêu nào nêu trên cũng phù hợp."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 279: Câu nào trong các câu sau đây không nói về thị trường độc quyền thuần tuý?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đường cầu của thị trường cũng là đường cầu của ngành."
+      },
+      {
+        "label": "B",
+        "text": "Giá được quyết định bởi người mua."
+      },
+      {
+        "label": "C",
+        "text": "Là thị trường rất hấp dẫn nhưng khó gia nhập."
+      },
+      {
+        "label": "D",
+        "text": "Giá bán là một trong những công cụ để duy trì và bảo vệ thế độc quyền."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 280: Khi sản phẩm của doanh nghiệp có những khác biệt so với những sản phẩm cạnh tranh và sự khác biệt này được khách hàng chấp nhận thì doanh nghiệp nên:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Đinh giá theo chi phí sản xuất"
+      },
+      {
+        "label": "B",
+        "text": "Định giá cao hơn sản phẩm cạnh tranh"
+      },
+      {
+        "label": "C",
+        "text": "Định giá thấp hơn sản phẩm cạnh tranh"
+      },
+      {
+        "label": "D",
+        "text": "Định giá theo thời vụ."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 281: Điều kiện nào được nêu ra dưới đây không phải là điều kiện thuận lợi cho việc áp dụng chính sách giá: “Bám chắc thị trường”",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thị trường rất nhạy cảm về giá và giá thấp sẽ mở rộng thị trường."
+      },
+      {
+        "label": "B",
+        "text": "Chi phí sản xuất tăng lên khi sản lượng sản xuất gia tăng"
+      },
+      {
+        "label": "C",
+        "text": "Chi phí phân phối giảm khi lượng hàng bán ra tăng lên"
+      },
+      {
+        "label": "D",
+        "text": "Giá thấp làm nhụt chí của các đối thủ cạnh tranh hiện có và tiềm ẩn."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 282: Bạn mua một bộ sản phẩm Johnson với nhiều loại sản phẩm khác nhau sẽ được mua với giá thấp hơn nếu bạn mua các sản phẩm đó riêng lẻ. Đó chính là do người bán đã định giá:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cho những hàng hoá phụ thêm"
+      },
+      {
+        "label": "B",
+        "text": "Cho những chủng loại hàng hoá"
+      },
+      {
+        "label": "C",
+        "text": "Trọn gói"
+      },
+      {
+        "label": "D",
+        "text": "Cho sản phẩm kèm theo bắt buộc"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 283: Việc định giá của hãng hàng không Vietnam Airline theo hạng Bussiness Class và Economy Class là việc:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Định giá phân biệt theo giai tầng xã hội"
+      },
+      {
+        "label": "B",
+        "text": "Định giá phân biệt theo nhóm khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Định giá phân biệt theo địa điểm"
+      },
+      {
+        "label": "D",
+        "text": "Định giá phân biệt theo thời gian"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 284: Giá bán lẻ 1kg bột giặt X là 14.000VND/1kg nhưng nếu khách hàng mua từ 6kg trở lên thì tính ra chỉ phải thanh toán 12.000VND/1kg. Doanh nghiệp bán sản phẩm X đang thực hiện chính sách:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chiết khấu cho người bán lẻ."
+      },
+      {
+        "label": "B",
+        "text": "Chiết khấu do thanh toán ngay bằng tiền mặt"
+      },
+      {
+        "label": "C",
+        "text": "Chiết khấu do mua số lượng nhiều"
+      },
+      {
+        "label": "D",
+        "text": "Chiết khấu thời vụ"
+      },
+      {
+        "label": "E",
+        "text": "Chiết khấu thương mại"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 285: Trong tình huống nào thì doanh nghiệp cần chủ động hạ giá?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Năng lực sản xuất dư thừa."
+      },
+      {
+        "label": "B",
+        "text": "Lượng hàng bán ra không đủ đáp ứng nhu cầu"
+      },
+      {
+        "label": "C",
+        "text": "Lợi nhuận đang tăng lên ở mức cao"
+      },
+      {
+        "label": "D",
+        "text": "Thị phần chiếm giữ đang tăng lên"
+      },
+      {
+        "label": "E",
+        "text": "Khi gặp phải tình trạng “lạm phát chi phí”"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 286: Một doanh nghiệp muốn nâng cao khả năng cạnh tranh trên những vùng thị trường xa nơi sản xuất, cách tiếp cận xác định giá nào sau đây tỏ ra không hiệu quả nhất?",
+    "options": [
+      {
+        "label": "A",
+        "text": "FOB"
+      },
+      {
+        "label": "B",
+        "text": "Giá thống nhất"
+      },
+      {
+        "label": "C",
+        "text": "Giá trọn gói"
+      },
+      {
+        "label": "D",
+        "text": "Giá tại thời điểm giao hàng"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 287: Công ty xe Bus Hà Nội giảm giá vé cho những học sinh, sinh viên khi đi xe bus. Đó là việc áp dụng chiến lược.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Giá trọn gói"
+      },
+      {
+        "label": "B",
+        "text": "Giá hai phần"
+      },
+      {
+        "label": "C",
+        "text": "Giá phân biệt"
+      },
+      {
+        "label": "D",
+        "text": "Giá theo hình ảnh"
+      },
+      {
+        "label": "F",
+        "text": "Giá chiết khấu"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 288: Mục tiêu định giá tối đa hoá lợi nhuận thì tương ứng với kiểu chiến lược giá:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thẩm thấu thị trường"
+      },
+      {
+        "label": "B",
+        "text": "Trung hoà"
+      },
+      {
+        "label": "C",
+        "text": "Hớt phần ngon"
+      },
+      {
+        "label": "D",
+        "text": "Trọn gói"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 289: Phương pháp định giá chỉ dựa vào chi phí có hạn chế lớn nhất là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Doanh nghiệp có thể bị lỗ"
+      },
+      {
+        "label": "B",
+        "text": "Không biết chắc là có bán được hết số sản phẩm dự tính ban đầu hay không?"
+      },
+      {
+        "label": "C",
+        "text": "Không tính đến mức giá của đối thủ cạnh tranh"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả"
+      },
+      {
+        "label": "E",
+        "text": "(b) và (c)"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 290: Trong trường hợp nào sau đây thì doanh nghiệp nên chủ động tăng giá?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Năng lực sản xuất dư thừa"
+      },
+      {
+        "label": "B",
+        "text": "Cầu quá mức"
+      },
+      {
+        "label": "C",
+        "text": "Thị phần đang có xu hướng giảm"
+      },
+      {
+        "label": "D",
+        "text": "Nền kinh tế đang suy thoái"
+      },
+      {
+        "label": "E",
+        "text": "Không có trường hợp nào cả"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 291: Trong kênh Marketing trực tiếp:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Người bán buôn và bán lẻ xen vào giữa người sản xuất trực tiếp và người tiêu dùng."
+      },
+      {
+        "label": "B",
+        "text": "Phải có người bán buôn"
+      },
+      {
+        "label": "C",
+        "text": "Người sản xuất bán hàng trực tiếp cho người tiêu dùng"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả đều sai"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 292: Công ty sữa Mộc Châu đưa sản phẩm của mình cho các của hàng tiêu thụ sản phẩm, sau đó các cửa hàng này bán sản phẩm của mình cho người tiêu dùng. Công ty sữa Mộc Châu tổ chức hệ thống kênh Marketing:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trực tiếp"
+      },
+      {
+        "label": "B",
+        "text": "Một cấp"
+      },
+      {
+        "label": "C",
+        "text": "Hai cấp"
+      },
+      {
+        "label": "D",
+        "text": "Ba cấp"
+      },
+      {
+        "label": "E",
+        "text": "Không thuộc loại nào kể trên."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 293: Định nghĩa nào sau đây đúng với một nhà bán buôn trong kênh phân phối?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là trung gian thực hiện chức năng phân phối trên thị trường công nghiệp"
+      },
+      {
+        "label": "B",
+        "text": "Là trung gian có quyền hành động hợp pháp thay cho nhà sản xuất."
+      },
+      {
+        "label": "C",
+        "text": "Là trung gian bán hàng hoá và dịch vụ cho các trung gian khác."
+      },
+      {
+        "label": "D",
+        "text": "Là trung gian bán hàng hoá trực tiếp cho người tiêu dùng cuối cùng."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 294: Công ty bia Việt Hà bán sản phẩm bia của mình thông qua các cửa hàng bán lẻ trên khắp miền Bắc và mục tiêu của công ty là có nhiều điểm bán lẻ càng tốt. Phương thức phân phối này được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Phân phối có chọn lọc"
+      },
+      {
+        "label": "B",
+        "text": "Phân phối rộng rãi"
+      },
+      {
+        "label": "C",
+        "text": "Phân phối đặc quyền cho các cửa hàng bán lẻ"
+      },
+      {
+        "label": "D",
+        "text": "Phân phối theo kênh hai cấp"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 295: Các xung đột trong kênh:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gồm có xung đột theo chiều dọc và theo chiều ngang"
+      },
+      {
+        "label": "B",
+        "text": "Có thể làm giảm hiệu quả của kênh"
+      },
+      {
+        "label": "C",
+        "text": "Có thể làm tăng hiệu quả của kênh"
+      },
+      {
+        "label": "D",
+        "text": "(a) và (b)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Câu 296: Các nhà sản xuất sử dụng những người trung gian phân phối vì những lý do sau đây, ngoại trừ:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Các nhà sản xuất thường không có đủ nguồn lực tài chính để thực hiện cả chức năng phân phối."
+      },
+      {
+        "label": "B",
+        "text": "Các nhà sản xuất nhận thấy rõ hiệu quả của việc chuyên môn hoá"
+      },
+      {
+        "label": "C",
+        "text": "Các nhà sản xuất không muốn tham gia vào việc phân phối sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Không câu nào đúng"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 297: Một kênh phân phối được gọi là kênh dài nếu:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Có số lượng nhiều các trung gian Marketing"
+      },
+      {
+        "label": "B",
+        "text": "Có số lượng nhiều các trung gian ở mỗi cấp độ kênh phân phối"
+      },
+      {
+        "label": "C",
+        "text": "Có nhiều cấp độ trung gian trong kênh."
+      },
+      {
+        "label": "D",
+        "text": "Tất cả đều đúng"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 298: Kênh phân phối:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là tập hợp các tổ chức và cá nhân tham gia vào dòng chảy hàng hoá từ người sản xuất đến khách hàng của họ"
+      },
+      {
+        "label": "B",
+        "text": "Phải có ít nhất một cấp trung gian"
+      },
+      {
+        "label": "C",
+        "text": "Phải có sự tham gia của các công ty kho vận"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả đều đúng"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 299: Câu nào trong các câu sau đây thể hiện đúng nhất sự khác nhau giữa kênh marketing truyền thông và VMS?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kênh phân phối truyền thống là kênh phân phối được tổ chức theo kiểu cũ, còn VMS được tổ chức theo kiểu mới."
+      },
+      {
+        "label": "B",
+        "text": "Kênh phân phối truyền thống chỉ có nhà sản xuất và người tiêu dùng, còn VMS được tổ chức theo kiểu mới."
+      },
+      {
+        "label": "C",
+        "text": "Các thành viên trong kênh phân phối truyền thống hoạt động vì lợi ích riêng của họ còn trong kênh VMS thì các thành viên hoạt động như một thể thống nhất vì mục tiêu chung."
+      },
+      {
+        "label": "D",
+        "text": "Trong kênh phân phối truyền thống không có hợp đồng ràng buộc giữa các bên còn ở VMS thì phải có hợp đồng."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 300: Trong các câu sau đây nói về ngành bán lẻ, câu nào không đúng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bán lẻ là việc bán hàng cho người tiêu dùng cuối cùng"
+      },
+      {
+        "label": "B",
+        "text": "Bán lẻ là một ngành lớn"
+      },
+      {
+        "label": "C",
+        "text": "Người sản xuất và người bán buôn không thể trực tiếp bán lẻ"
+      },
+      {
+        "label": "D",
+        "text": "Bán lẻ có thể được thực hiện qua các nhân viên bán hàng, qua thư bán hàng, qua điện thoại và bán hàng tại nhà"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 301: Việc bán hàng cho các cá nhân và doanh nghiệp để họ bán lại hoặc sử dụng vào mục đích kinh doanh được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bán lẻ"
+      },
+      {
+        "label": "B",
+        "text": "Bán buôn"
+      },
+      {
+        "label": "C",
+        "text": "Liên doanh"
+      },
+      {
+        "label": "D",
+        "text": "Sản xuất"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 302: Trong các quyết định sau đây, quyết định nào không phải là một trong các quyết định cơ bản về sản phẩm mà người bán lẻ thông qua?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Về chủng loại hàng hoá"
+      },
+      {
+        "label": "B",
+        "text": "Về cơ cấu dịch vụ"
+      },
+      {
+        "label": "C",
+        "text": "Về bầu không khí (cách trưng bày hàng hoá)"
+      },
+      {
+        "label": "D",
+        "text": "Về thị truờng mục tiêu"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 303: Việc các nhà sản xuất hỗ trợ cho những nhà bán lẻ trong việc trưng bày hàng hoá và tư vấn cho khách hàng là thực hiện chức năng nào trong các chức năng sau đây?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thiết lập các mối quan hệ"
+      },
+      {
+        "label": "B",
+        "text": "San sẻ rủi ro"
+      },
+      {
+        "label": "C",
+        "text": "Tài trợ"
+      },
+      {
+        "label": "D",
+        "text": "Xúc tiến bán hàng"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 304: Bán hàng tại nhà người tiêu dùng",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là bán lẻ"
+      },
+      {
+        "label": "B",
+        "text": "Là Marketing trực tiếp"
+      },
+      {
+        "label": "C",
+        "text": "Là việc bán hàng không qua trung gian"
+      },
+      {
+        "label": "D",
+        "text": "Tất cả đếu sai."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 305: Quá trình mà các ý tưởng được chuyển thành những hình thức có tính biểu tượng được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mã hóa"
+      },
+      {
+        "label": "B",
+        "text": "Giải mã"
+      },
+      {
+        "label": "C",
+        "text": "Liên hệ ngược"
+      },
+      {
+        "label": "D",
+        "text": "Nhiễu"
+      },
+      {
+        "label": "E",
+        "text": "Phương tiện truyền thông"
+      }
+    ],
+    "answer": null
+  },
+  {
+    "question": "Câu 306: Truyền thông Marketing khó thành công nhất khi:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Mã hoá thông tin nhưng không giải mã được"
+      },
+      {
+        "label": "B",
+        "text": "Người truyền tin và người nhận tin không trực tiếp nói chuyện với nhau"
+      },
+      {
+        "label": "C",
+        "text": "Có nhiều nhiễu trong quá trình truyền tin"
+      },
+      {
+        "label": "D",
+        "text": "Người truyền tin và người nhận tin không có cùng mặt bằng nhận thức."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Câu 307: Theo mô hình AKLPCP, các trạng thái liên quan đến việc mua hàng của một khách hàng lần lượt là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Nhận biết, hiểu, ưa chuộng, thiện cảm, ý định mua, hành động mua."
+      },
+      {
+        "label": "B",
+        "text": "Nhận biết, thiện cảm, ưa chuộng, hành động mua."
+      },
+      {
+        "label": "C",
+        "text": "Nhận biết, ý định mua, ưa chuộng, hành động mua"
+      },
+      {
+        "label": "D",
+        "text": "Không câu nào đúng."
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 308: Việc giới thiệu những tính năng ưu việt của một sản phẩm qua bao gói của sản phẩm đó được xem như là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quan hệ công chúng"
+      },
+      {
+        "label": "B",
+        "text": "Bán hàng cá nhân"
+      },
+      {
+        "label": "C",
+        "text": "Bán hàng qua bao gói"
+      },
+      {
+        "label": "D",
+        "text": "Quảng cáo"
+      }
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Câu 309: Bản chất của các hoạt động xúc tiến hỗn hợp là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Chiến lược tập trung nỗ lực vào việc bán hàng"
+      },
+      {
+        "label": "B",
+        "text": "Xúc tiến thương mại"
+      },
+      {
+        "label": "C",
+        "text": "Truyền thông tin về doanh nghiệp, về sản phẩm đối với khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Xúc tiến bán"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 310: Một thông điệp có nội dung đề cập đến lợi ích tiêu dùng mà khách hàng sẽ nhận được khi tiêu dùng một sản phẩm. Đó chính là sự hấp dẫn về:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Cảm xúc"
+      },
+      {
+        "label": "B",
+        "text": "Lợiích kinh tế"
+      },
+      {
+        "label": "C",
+        "text": "Tình cảm"
+      },
+      {
+        "label": "D",
+        "text": "Đạo đức"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 311: Trong giai đoạn giới thiệu thuộc chu kỳ sống của một sản phẩm tiêu dùng:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Việc bán hàng cá nhân được chú trọng nhiều hơn so với quảng cáo"
+      },
+      {
+        "label": "B",
+        "text": "Quảng cáo và tuyên truyền là các biện pháp thích hợp nhằm tạo ra sự nhận biết của khách hàng tiềm ẩn."
+      },
+      {
+        "label": "C",
+        "text": "Khôngcó khuyến mại"
+      },
+      {
+        "label": "D",
+        "text": "Không có tuyên truyền"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 312: Bán hàng cá nhân tốt hơn quảng cáo khi:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Thị trường mục tiêu lớn và trải rộng"
+      },
+      {
+        "label": "B",
+        "text": "Doanh nghiệp có rất nhiều khách hàng tiềm năng"
+      },
+      {
+        "label": "C",
+        "text": "Các thông tin phản hồi ngay lập tức D. Muốn giảm chi phí Marketing"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 313: Các hình thức xúc tiến bán có thể là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Xúc tiến với người tiêu dùng"
+      },
+      {
+        "label": "B",
+        "text": "Xúc tiến với các trung tâm thương mại"
+      },
+      {
+        "label": "C",
+        "text": "Xúc tiến với các trung gian trong kênh"
+      },
+      {
+        "label": "D",
+        "text": "(a) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Câu 314: Việc một doanh nghiệp giao tiếp với các nhà làm luật để ủng hộ hay cản trở một sắc luật được gọi là:",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tham khảo ý kiến"
+      },
+      {
+        "label": "B",
+        "text": "Vậnđộng hành lang"
+      },
+      {
+        "label": "C",
+        "text": "Truyền thông công ty"
+      },
+      {
+        "label": "D",
+        "text": "Tuyên truyền về sản phẩm"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 315: Trong số các hoạt động xúc tiến hỗn hợp, hoạt động nào có tác dụng thiết lập các mối quan hệ phong phú, đa dạng với khách hàng?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quảng cáo"
+      },
+      {
+        "label": "B",
+        "text": "Bán hàng cá nhân"
+      },
+      {
+        "label": "C",
+        "text": "Xúc tiến bán"
+      },
+      {
+        "label": "D",
+        "text": "Quan hệ công chúng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 316: Nhiệm vụ nào dưới đây không phải là nhiệm vụ của người bán hàng trực tiếp?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Tìm kiếm khách hàng mới"
+      },
+      {
+        "label": "B",
+        "text": "Thiết kế sản phẩm cho phù hợp với yêu cầu của khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Truyền đạt thông tin về sản phẩm cho khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Cung cấp dịch vụ trước và sau khi bán"
+      },
+      {
+        "label": "E",
+        "text": "Nghiên cứu và thu thập thông tin về thị trường."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Câu 317: Marketing trực tiếp",
+    "options": [
+      {
+        "label": "A",
+        "text": "Là việc gặp gỡ khách hàng và trực tiếp bán hàng"
+      },
+      {
+        "label": "B",
+        "text": "Thương là sự kết hợp của 3 yếu tố quảng cáo, xúc tiến bán hàng và bán hàng cá nhân."
+      },
+      {
+        "label": "C",
+        "text": "Giúp cho khách hàng lựa chọn và đặt hàng thuận lợi và tiết kiệm thời gian"
+      },
+      {
+        "label": "D",
+        "text": "(a) và (c)"
+      },
+      {
+        "label": "E",
+        "text": "Tất cả"
+      }
+    ],
+    "answer": "E"
+  },
+  {
+    "question": "Câu 318: Trong thị trường các yếu tố sản xuất, công cụ xúc tiến hỗn hợp nào thường giúp cho doanh nghiệp đạt hiệu quả cao nhất?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quảng cáo"
+      },
+      {
+        "label": "B",
+        "text": "Tuyên truyền"
+      },
+      {
+        "label": "C",
+        "text": "Bán hàng cá nhân"
+      },
+      {
+        "label": "D",
+        "text": "Xúc tiến bán"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Câu 319: Khi áp dụng chiến lược đấy, công cụ nào trong các công cụ sau đây phát huy tác dụng cao nhất?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Quảng cáo"
+      },
+      {
+        "label": "B",
+        "text": "Tuyên truyền"
+      },
+      {
+        "label": "C",
+        "text": "Ưu đãi trung gian"
+      },
+      {
+        "label": "D",
+        "text": "Không có công cụ nào"
+      }
+    ],
+    "answer": "C"
+  }
+]
