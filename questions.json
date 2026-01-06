@@ -572,7 +572,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 27: Thị trường mục tiêu của doanh nghiệp là đọan thị trường:",
+    "question": "Câu 27: Thị trường mục tiêu của doanh nghiệp là đoạn thị trường:",
     "options": [
       {
         "label": "A",
@@ -1438,15 +1438,15 @@
       },
       {
         "label": "B",
-        "text": "Cả A và B."
-      },
-      {
-        "label": "C",
         "text": "Chính sách duy nhất mang lại doanh thu cho doanh nghiệp"
       },
       {
+        "label": "C",
+        "text": "Có xu hướng đi lên"
+      },
+      {
         "label": "D",
-        "text": "Có xu hưởng đi lên"
+        "text": "Cả A và B"
       }
     ],
     "answer": "B"
@@ -3022,7 +3022,7 @@
       },
       {
         "label": "B",
-        "text": "Tất cả các đáp án trên (A,B,C)"
+        "text": "Yêu cầu về dịch vụ của khách hàng"
       },
       {
         "label": "C",
@@ -3030,10 +3030,10 @@
       },
       {
         "label": "D",
-        "text": "Yêu cầu về dịch vụ của khách hàng"
+        "text": "Tất cả các đáp án trên (A,B,C)"
       }
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "question": "Câu 139: Điều nào sau đây đúng với chiến lược giá theo chủng loại hàng hoá?",
@@ -3150,11 +3150,19 @@
     "options": [
       {
         "label": "A",
-        "text": "Giới thiệu. C.Bão hòa."
+        "text": "Giới thiệu."
       },
       {
         "label": "B",
-        "text": "Tăng D.Suy thoái. trưởng."
+        "text": "Tăng trưởng."
+      },
+      {
+        "label": "C",
+        "text": "Bão hòa."
+      },
+      {
+        "label": "D",
+        "text": "Suy thoái."
       }
     ],
     "answer": "A"
@@ -3164,11 +3172,19 @@
     "options": [
       {
         "label": "A",
-        "text": "Một thứ có C. Một thứ có thể mua bán. giá trị. D. Một vật quan trọng."
+        "text": "Một thứ có giá trị."
       },
       {
         "label": "B",
         "text": "Một sản phẩm."
+      },
+      {
+        "label": "C",
+        "text": "Một thứ có thể mua bán."
+      },
+      {
+        "label": "D",
+        "text": "vật quan trọng."
       }
     ],
     "answer": "B"
@@ -3200,14 +3216,22 @@
     "options": [
       {
         "label": "A",
-        "text": "Tập trung vào một đoạn C. Chuyên môn hoá theo thị thị trường trường"
+        "text": "Chuyên môn hoá theo sản phẩm"
       },
       {
         "label": "B",
-        "text": "Chuyên môn hoá tuyển D. Chuyên môn hoá theo sản chọn phẩm"
+        "text": "Tập trung vào một đoạn thị trường"
+      },
+      {
+        "label": "C",
+        "text": "Chuyên môn hoá tuyển chọn"
+      },
+      {
+        "label": "D",
+        "text": "Chuyên môn hoá theo thị trường"
       }
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "question": "Câu 148: Điều nào sau đây đúng với khái niệm thị trường mục tiêu trong marketing của doanh nghiệp?",
@@ -4246,11 +4270,11 @@
     "answer": "C"
   },
   {
-    "question": "Câu 196: Đề tìm kiểm đoạn thị trường quả, việc phân đoạn thị trường cần đảm báo một sỐyếu tỐsau, trừ",
+    "question": "Câu 196: Đề tìm kiểm đoạn thị trường quả, việc phân đoạn thị trường cần đảm báo một số yếu tố sau, trừ",
     "options": [
       {
         "label": "A",
-        "text": "Đo lường được và có quy mỏđủlớn"
+        "text": "Đo lường được và có quy mô đủ lớn"
       },
       {
         "label": "B",
@@ -4262,7 +4286,7 @@
       },
       {
         "label": "D",
-        "text": "Không có sựkhác biệt các đoạn thị trường"
+        "text": "Không có sự khác biệt các đoạn thị trường"
       }
     ],
     "answer": "D"
@@ -5096,7 +5120,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Th ứ cấp"
+        "text": "Thứ cấp"
       },
       {
         "label": "B",
@@ -6395,7 +6419,7 @@
         "text": "Giá theo hình ảnh"
       },
       {
-        "label": "F",
+        "label": "E",
         "text": "Giá chiết khấu"
       }
     ],
