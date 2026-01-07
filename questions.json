@@ -4146,7 +4146,7 @@
       },
       {
         "label": "D",
-        "text": "Marke ting"
+        "text": "Marketing"
       },
       {
         "label": "E",
@@ -4278,7 +4278,7 @@
     "answer": "D"
   },
   {
-    "question": "Câu 194: Chọn từ phù hợp đây hoàn chính khải niệm “Phân đoạn thị trường là quá trình ”",
+    "question": "Câu 194: Chọn từ phù hợp đây hoàn chỉnh khái niệm “Phân đoạn thị trường là quá trình .......”",
     "options": [
       {
         "label": "A",
@@ -4286,31 +4286,43 @@
       },
       {
         "label": "B",
-        "text": "Chia thị trường thành những bộ phận miêng biệt, đồng nhất về nhu cần, muỐn và đặc điểm hành vi, C Lựa chon một đoạn thị trường cho sản phẩm của doanh nghiệp nhâm tiêu nhiều nhất và lợi nhuận."
+        "text": "Chia thị trường thành những bộ phận riêng biệt, đồng nhất về nhu cầu, mong muốn và đặc điểm hành vi."
+      },
+      {
+        "label": "C",
+        "text": "Lựa chọn một đoạn thị trường cho sản phẩm của doanh nghiệp nhằm tiêu thụ nhiều nhất và lợi nhuận."
       },
       {
         "label": "D",
-        "text": "Chia một thịtrường tổng thểthành những nhóm nhỏdựa trên những điểm khác biệt vềcầu, ước muốn và đặc điểm hinh vi."
+        "text": "Chia một thị trường tổng thể thành những nhóm nhỏ dựa trên những điểm khác biệt về cầu, ước muốn và đặc điểm hành vi."
       }
     ],
     "answer": "D"
   },
   {
-    "question": "Câu 195: Thuật ngữ với trong khải niệm sau \"Đoạn thị trường là có phân ứng như nhau với một tập hợp những kích thích marketing” А. Một nhóm người bán buôn trên thị trường tổng thể. В.Một nhóm nhà cung ứng trên thị trường tổng thể",
+    "question": "Câu 195: Thuật ngữ với trong khái niệm sau \"Đoạn thị trường là ...... có phản ứng như nhau với một tập hợp những kích thích marketing\"",
     "options": [
+      {
+        "label": "A",
+        "text": "Một nhóm người bán buôn trên thị trường tổng thể."
+      },
+      {
+        "label": "B",
+        "text": "Một nhóm nhà cung ứng trên thị trường tổng thể."
+      },
       {
         "label": "C",
         "text": "Một nhóm khách hàng trên thị trường thể."
       },
       {
         "label": "D",
-        "text": "Một nhóm các doanh nghiệp sản xuất trên thị trường tổng thể. có phân"
+        "text": "Một nhóm các doanh nghiệp sản xuất trên thị trường tổng thể."
       }
     ],
     "answer": "C"
   },
   {
-    "question": "Câu 196: Đề tìm kiểm đoạn thị trường quả, việc phân đoạn thị trường cần đảm báo một số yếu tố sau, trừ",
+    "question": "Câu 196: Để tìm kiếm đoạn thị trường hiệu quả, việc phân đoạn thị trường cần đảm bảo một số yếu tố sau, trừ",
     "options": [
       {
         "label": "A",
@@ -4336,7 +4348,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Qui mô và tăng trường của thịtrường."
+        "text": "Quy mô và tăng trưởng của thị trường."
       },
       {
         "label": "B",
@@ -4398,7 +4410,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 200: Một thị trường được đánh giá là hấp dẫn nếu",
+    "question": "Câu 200: Một đoạn thị trường được đánh giá là kém hấp dẫn nếu",
     "options": [
       {
         "label": "A",
@@ -4406,7 +4418,7 @@
       },
       {
         "label": "B",
-        "text": "Sựxâm nhập của các đối thủ cạnh tranh mới khá dễ dàng."
+        "text": "Sự xâm nhập của các đối thủ cạnh tranh mới khá dễ dàng."
       },
       {
         "label": "C",
@@ -4414,13 +4426,13 @@
       },
       {
         "label": "D",
-        "text": "Người mua ít có khả năng chi phỐi về giá"
+        "text": "Người mua ít có khả năng chi phối về giá"
       }
     ],
     "answer": "B"
   },
   {
-    "question": "Câu 201: Điều nào sau đây đúng với khái niệm thị trường mục trong marketing của doanh nghiệp?",
+    "question": "Câu 201: Điều nào sau đây đúng với khái niệm thị trường mục tiêu trong marketing của doanh nghiệp?",
     "options": [
       {
         "label": "A",
@@ -4428,7 +4440,11 @@
       },
       {
         "label": "B",
-        "text": "Là những nhóm khách hàng và đang tiêu dùng sản phẩm của doanh nghiệp. C Là những nhóm khách hàng và đang dùng sản phẩm cóa doanh nghiệp và người cạnh tranh."
+        "text": "Là những nhóm khách hàng và đang tiêu dùng sản phẩm của doanh nghiệp."
+      },
+      {
+        "label": "C",
+        "text": " Là những nhóm khách hàng và đang dùng sản phẩm của doanh nghiệp và người cạnh tranh."
       },
       {
         "label": "D",
@@ -4438,7 +4454,7 @@
     "answer": "A"
   },
   {
-    "question": "Câu 202: Chiến lược marketing của doanh nghiệp hướng tới một nhóm người tiêu dùng thi gọi là:",
+    "question": "Câu 202: Chiến lược marketing của doanh nghiệp hướng tới một nhóm người tiêu dùng thì gọi là:",
     "options": [
       {
         "label": "A",
@@ -4454,13 +4470,13 @@
       },
       {
         "label": "D",
-        "text": "Chiến lược marketing củng cỐ thị trường nội địạ"
+        "text": "Chiến lược marketing củng cố thị trường nội địa"
       }
     ],
     "answer": "B"
   },
   {
-    "question": "Câu 203: Một doanh nghiệp nhỏ với vỐn hạn chế sẽ ít có khả năng nhất để lựa chọn chiến lược đáp ứng:",
+    "question": "Câu 203: Một doanh nghiệp nhỏ với vốn hạn chế sẽ ít có khả năng nhất để lựa chọn chiến lược đáp ứng:",
     "options": [
       {
         "label": "A",
@@ -4622,7 +4638,7 @@
     "answer": "A"
   },
   {
-    "question": "Câu 210: Dữ liệu so cấp có thể thu thập được bằng cách nào trong các cách dưới đây?",
+    "question": "Câu 210: Dữ liệu sơ cấp có thể thu thập được bằng cách nào trong các cách dưới đây?",
     "options": [
       {
         "label": "A",
@@ -4634,7 +4650,7 @@
       },
       {
         "label": "C",
-        "text": "Điềutra phỏng vấn."
+        "text": "Điều tra, phỏng vấn"
       },
       {
         "label": "D",
@@ -4642,7 +4658,7 @@
       },
       {
         "label": "E",
-        "text": "Tất cả các cách nêu trên."
+        "text": "Tất cả các cách nêu trên"
       }
     ],
     "answer": "E"
@@ -4726,7 +4742,7 @@
       },
       {
         "label": "B",
-        "text": "Số lượng thông tin thu đuợc nhiều hơn đáng kể."
+        "text": "Số lượng thông tin thu được nhiều hơn đáng kể."
       },
       {
         "label": "C",
@@ -4740,7 +4756,7 @@
     "answer": "B"
   },
   {
-    "question": "Câu 215: Các thông tin Marketing bên ngoài được cung cấp cho hệ thông thông tin của doanh nghiệp, ngoại trừ:",
+    "question": "Câu 215: Các thông tin Marketing bên ngoài được cung cấp cho hệ thống thông tin của doanh nghiệp, ngoại trừ:",
     "options": [
       {
         "label": "A",
@@ -4884,7 +4900,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Đốithủ cạnh tranh."
+        "text": "Đối thủ cạnh tranh."
       },
       {
         "label": "B",
@@ -5248,7 +5264,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 237: Một khách hàng có thể không hài lòng với sản phẩm mà họ đã mua và sử dung; trạng thái cao nhất của sự không hài lòng được biểu hiẹn bằng thái độ nào sau đây?",
+    "question": "Câu 237: Một khách hàng có thể không hài lòng với sản phẩm mà họ đã mua và sử dung; trạng thái cao nhất của sự không hài lòng được biểu hiện bằng thái độ nào sau đây?",
     "options": [
       {
         "label": "A",
@@ -5388,7 +5404,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 243: Hai khách hàng có cùng động cơ như nhau nhưng khi vào cùng một cửa hàng thì lại có sự lựa chọn khác nhau về nhãn hiệu sản phẩm, đó là do họ có sựkhác nhau về:",
+    "question": "Câu 243: Hai khách hàng có cùng động cơ như nhau nhưng khi vào cùng một cửa hàng thì lại có sự lựa chọn khác nhau về nhãn hiệu sản phẩm, đó là do họ có sự khác nhau về:",
     "options": [
       {
         "label": "A",
@@ -5884,7 +5900,7 @@
       },
       {
         "label": "C",
-        "text": "Sản phẩm bổ xung"
+        "text": "Sản phẩm bổ sung"
       },
       {
         "label": "D",
@@ -5958,7 +5974,7 @@
       },
       {
         "label": "D",
-        "text": "Bap gói tạo khả năng và ý niệm về sự cải tiến hàng hoá"
+        "text": "Bao gói tạo khả năng và ý niệm về sự cải tiến hàng hoá"
       },
       {
         "label": "E",
@@ -6138,11 +6154,11 @@
     "options": [
       {
         "label": "A",
-        "text": "Tàisản cố định"
+        "text": "Tài sản cố định"
       },
       {
         "label": "B",
-        "text": "Vật tư dịchvụ"
+        "text": "Vật tư dịch vụ"
       },
       {
         "label": "C",
