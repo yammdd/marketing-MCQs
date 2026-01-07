@@ -338,7 +338,7 @@
       },
       {
         "label": "B",
-        "text": "Làm cho sản phẩm của doanh nghiệp khác biệtvới sản phẩm cạnh tranh."
+        "text": "Làm cho sản phẩm của doanh nghiệp khác biệt với sản phẩm cạnh tranh."
       },
       {
         "label": "C",
@@ -378,7 +378,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Từ ngữ, thuật ngữ, biểu trưng, hình vẽ hoặc và sự phối hợp giữa chúng"
+        "text": "Từ ngữ, thuật ngữ, biểu trưng, hình vẽ hoặc sự phối hợp giữa chúng"
       },
       {
         "label": "B",
@@ -418,7 +418,7 @@
     "answer": "B"
   },
   {
-    "question": "Câu 20: Để tim kiếm đoạn thị trường có hiệu quả, việc phân đoạn thị trường cần đảm bảo một số yêu cầu cơ bản sau, ngoại trừ:",
+    "question": "Câu 20: Để tìm kiếm đoạn thị trường có hiệu quả, việc phân đoạn thị trường cần đảm bảo một số yêu cầu cơ bản sau, ngoại trừ:",
     "options": [
       {
         "label": "A",
@@ -914,11 +914,11 @@
       },
       {
         "label": "C",
-        "text": "Cả A, B và C"
+        "text": "Đặt mức giá thấp nhất có thể, chỉ cần không lỗ"
       },
       {
         "label": "D",
-        "text": "Đặt mức giá thấp nhất có thể, chỉ cần không lỗ"
+        "text": "Cả A, B và C"
       }
     ],
     "answer": "A"
@@ -1104,7 +1104,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Bản hàng là một khâu của hoạt động của marketing"
+        "text": "Bán hàng là một khâu của hoạt động của marketing"
       },
       {
         "label": "B",
@@ -1258,7 +1258,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Bảo cáo lỗ, lãi của doanh nghiệp."
+        "text": "Báo cáo lỗ, lãi của doanh nghiệp."
       },
       {
         "label": "B",
@@ -1314,7 +1314,7 @@
       },
       {
         "label": "D",
-        "text": "Là một nhóm hàng hoá cổ liên quan chặt chẽ với nhau và được doanh nghiệp chọn để tổ chức sản xuất và đưa ra thị trưởng"
+        "text": "Là một nhóm hàng hoá cổ liên quan chặt chẽ với nhau và được doanh nghiệp chọn để tổ chức sản xuất và đưa ra thị trường"
       }
     ],
     "answer": "B"
@@ -1449,7 +1449,7 @@
         "text": "Cả A và B"
       }
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "question": "Câu 67: Sự cân đối lợi nhuận của doanh nghiệp, thoả mãn nhu cầu của khách hàng và lợi ích xã hội là một đòi hỏi đối với nhà marketing theo quan điểm",
@@ -1530,7 +1530,7 @@
       },
       {
         "label": "C",
-        "text": "Bao bi"
+        "text": "Bao bì"
       },
       {
         "label": "D",
@@ -1650,7 +1650,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 76: Một doanh nghiệp cho rằng để phát triển sản xuất kinh doanh cần chủ trọng vào khẩu bán hàng và thực hiện khuyếch trương sản phẩm để tăng doanh số, doanh nghiệp đó tuân theo quan điểm marketing nào?",
+    "question": "Câu 76: Một doanh nghiệp cho rằng để phát triển sản xuất kinh doanh cần chú trọng vào khâu bán hàng và thực hiện khuyếch trương sản phẩm để tăng doanh số, doanh nghiệp đó tuân theo quan điểm marketing nào?",
     "options": [
       {
         "label": "A",
@@ -1974,7 +1974,7 @@
       },
       {
         "label": "D",
-        "text": "Giảm bớt thi phần"
+        "text": "Giảm bớt thị phần"
       }
     ],
     "answer": "B"
@@ -2703,7 +2703,7 @@
         "text": "Marketing tập trung vào sản xuất."
       }
     ],
-    "answer": "A"
+    "answer": "B"
   },
   {
     "question": "Câu 124: Sự thoả mãn sau khi mua tuỳ thuộc vào",
@@ -2750,7 +2750,7 @@
     "answer": "C"
   },
   {
-    "question": "Câu 126: Các yếu tố ảnh hưởng tới quyết định về giả được bao gồm:",
+    "question": "Câu 126: Các yếu tố ảnh hưởng tới quyết định về giá được bao gồm:",
     "options": [
       {
         "label": "A",
@@ -2850,7 +2850,7 @@
       },
       {
         "label": "C",
-        "text": "Xây dựng quan niệm về bao gó"
+        "text": "Xây dựng quan niệm về bao gói"
       },
       {
         "label": "D",
@@ -3058,7 +3058,7 @@
     "answer": "A"
   },
   {
-    "question": "Câu 140: Theo góc độ người mua, giả là:",
+    "question": "Câu 140: Theo góc độ người mua, giá là:",
     "options": [
       {
         "label": "A",
@@ -3304,11 +3304,19 @@
     "options": [
       {
         "label": "A",
-        "text": "Chiến lược marketing C. Chiến lược marketing nhằm thúc đẩy tiêu dùng bán lẻ"
+        "text": "Chiến lược marketing tiêu dùng"
       },
       {
         "label": "B",
-        "text": "Chiến lược D. Chiến lược marketing củng cố thị marketing mục tiêu trường nội địa."
+        "text": "Chiến lược marketing mục tiêu"
+      },
+      {
+        "label": "C",
+        "text": "Chiến lược marketing nhằm thúc đẩy bán lẻ"
+      },
+      {
+        "label": "D",
+        "text": "Chiến lược marketing củng cố thị trường nội địạ"
       }
     ],
     "answer": "B"
@@ -3516,7 +3524,7 @@
     "answer": "B"
   },
   {
-    "question": "Câu 161: Quan điểm marketing tập trung vào …… cho rằng người tiêu dùng ưa thích những sản phẩm có chất lượng , tính năng và hình thức tỐt nhất vàvì vậy doanh nghiệp cần tập trung vào cải tiến sản phẩm",
+    "question": "Câu 161: Quan điểm marketing tập trung vào …… cho rằng người tiêu dùng ưa thích những sản phẩm có chất lượng , tính năng và hình thức tốt nhất vàvì vậy doanh nghiệp cần tập trung vào cải tiến sản phẩm",
     "options": [
       {
         "label": "A",
@@ -3546,11 +3554,19 @@
     "options": [
       {
         "label": "A",
-        "text": "Nhanh và rẻ hơn thông tin sơ C. Qua điều tra khách hàng. cấp D. Qua điều tra khách hàng và các"
+        "text": "Nhanh và rẻ hơn thông tin sơ cấp."
       },
       {
         "label": "B",
-        "text": "Chính xác hơn thông tin sơ nguồn tài liệu cấp."
+        "text": "Chính xác hơn thông tin sơ cấp."
+      },
+      {
+        "label": "C",
+        "text": "Qua điều tra khách hàng."
+      },
+      {
+        "label": "D",
+        "text": "Qua điều tra khách hàng và các nguồn tài liệu."
       }
     ],
     "answer": "A"
@@ -3604,11 +3620,19 @@
     "options": [
       {
         "label": "A",
-        "text": "Sản C. Cả sản xuất và khách hàng. xuất. D. Sản phẩm"
+        "text": "Sản xuất"
       },
       {
         "label": "B",
-        "text": "Khách hàng."
+        "text": "Khách hàng"
+      },
+      {
+        "label": "C",
+        "text": "Cả sản xuất và khách hàng"
+      },
+      {
+        "label": "D",
+        "text": "Sản phẩm"
       }
     ],
     "answer": "A"
@@ -3772,11 +3796,19 @@
     "options": [
       {
         "label": "A",
-        "text": "Chuyển C. Đổi hàng. giao. D. Bán hàng"
+        "text": "Chuyển giao."
       },
       {
         "label": "B",
         "text": "Giao dịch."
+      },
+      {
+        "label": "C",
+        "text": "Đổi hàng."
+      },
+      {
+        "label": "D",
+        "text": "Bán hàng."
       }
     ],
     "answer": "B"
@@ -3808,11 +3840,19 @@
     "options": [
       {
         "label": "A",
-        "text": "Doanh nghiệp dễ dàng C. Khó có khả năng thay thế sản thâm nhập. phẩm."
+        "text": "Doanh nghiệp dễ dàng thâm nhập"
       },
       {
         "label": "B",
-        "text": "Sự gia nhập của các đối D. Người mua ít có khả năng chi thủ mới khá dễ dàng. phối về giá"
+        "text": "Sự gia nhập của các đối thủ mới khá dễ dàng"
+      },
+      {
+        "label": "C",
+        "text": "Khó có khả năng thay thế sản phẩm"
+      },
+      {
+        "label": "D",
+        "text": "Người mua ít có khả năng chi phối về giá"
       }
     ],
     "answer": "B"
