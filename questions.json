@@ -2722,7 +2722,7 @@
       },
       {
         "label": "D",
-        "text": "ự mong đợi của người tiêu dùng"
+        "text": "Sự mong đợi của người tiêu dùng"
       }
     ],
     "answer": "B"
@@ -3209,7 +3209,7 @@
         "text": "Bão hoà."
       }
     ],
-    "answer": "D"
+    "answer": "B"
   },
   {
     "question": "Câu 147: Đặt cửa hàng quần áo nữ trong khu nội trú sinh viên nữ là phương án lựa chọn thị trường:",
@@ -4334,7 +4334,7 @@
       },
       {
         "label": "C",
-        "text": "Có tính khả"
+        "text": "Có tính khả thi"
       },
       {
         "label": "D",
@@ -4392,7 +4392,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Giảm giá sản phám."
+        "text": "Giảm giá sản phẩm."
       },
       {
         "label": "B",
@@ -7042,7 +7042,11 @@
       },
       {
         "label": "C",
-        "text": "Các thông tin phản hồi ngay lập tức D. Muốn giảm chi phí Marketing"
+        "text": "Các thông tin phản hồi ngay lập tức"
+      },
+      {
+        "label": "D",
+        "text": "Muốn giảm chi phí Marketing"
       }
     ],
     "answer": "C"
@@ -7082,7 +7086,7 @@
       },
       {
         "label": "B",
-        "text": "Vậnđộng hành lang"
+        "text": "Vận động hành lang"
       },
       {
         "label": "C",
@@ -7152,7 +7156,7 @@
       },
       {
         "label": "B",
-        "text": "Thương là sự kết hợp của 3 yếu tố quảng cáo, xúc tiến bán hàng và bán hàng cá nhân."
+        "text": "Thường là sự kết hợp của 3 yếu tố quảng cáo, xúc tiến bán hàng và bán hàng cá nhân."
       },
       {
         "label": "C",
