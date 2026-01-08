@@ -466,7 +466,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Sự chung thành"
+        "text": "Sự trung thành"
       },
       {
         "label": "B",
@@ -833,7 +833,7 @@
         "text": "Giới thiệu."
       }
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "question": "Câu 39: Nghiên cứu chu kỳ sống sản phẩm có ý nghĩa nào sau đây đối với người làm marketing?",
@@ -1009,7 +1009,7 @@
         "text": "Do bao bì có chức năng bảo vệ, xúc tiến, mang vác, sẵn sàng, cân đối, giới thiệu và duy trì sản phẩm"
       }
     ],
-    "answer": "B"
+    "answer": "C"
   },
   {
     "question": "Câu 47: Môi trường marketing của một doanh nghiệp bao gồm",
@@ -1060,7 +1060,7 @@
     "options": [
       {
         "label": "A",
-        "text": "Là một nhóm hàng hoá có liên quan chặt chẽ với nhau do một người bản cụ thể đem chảo bản cho người mua."
+        "text": "Là một nhóm hàng hoá có liên quan chặt chẽ với nhau do một người bán cụ thể đem chào bán cho người mua."
       },
       {
         "label": "B",
@@ -1119,7 +1119,7 @@
         "text": "Marketing và tiếp thị là hai hoạt động đồng nhất"
       }
     ],
-    "answer": "D"
+    "answer": "A"
   },
   {
     "question": "Câu 52: Sự hài lòng của khách hàng sau khi sử dụng hàng hóa tùy thuộc vào:",
@@ -1346,22 +1346,22 @@
     "options": [
       {
         "label": "A",
-        "text": "Xây dựng nhiều chiến lược marketing - mix cho thị trường tổng thể"
+        "text": "Xây dựng một chiến lược marketing - mix duy nhất sử dụng cho đoạn thị trường mà doanh nghiệp đã chọn"
       },
       {
         "label": "B",
-        "text": "Xây dựng một chiến lược marketing - mix duy nhất cho các nhóm khách hàng khác nhau"
+        "text": "Xây dựng nhiều chiến lược marketing - mix cho thị trường tổng thể"
       },
       {
         "label": "C",
-        "text": "Xây dựng một chiến lược marketing - mix cho một số thị trường tổng thể"
+        "text": "Xây dựng các chiến lược marketing - mix khác nhau cho các đoạn thị trường tổng thể"
       },
       {
         "label": "D",
-        "text": "Xây dựng các chiến lược marketing - mix khác nhau cho các đoạn thị trường tổng thể"
+        "text": "Xây dựng một chiến lược marketing - mix cho một số thị trường tổng thể"
       }
     ],
-    "answer": "C"
+    "answer": "A"
   },
   {
     "question": "Câu 63: Chiến lược marketing phân biệt được hiểu là việc:",
@@ -1823,7 +1823,7 @@
         "text": "Chi phí marketing giảm"
       }
     ],
-    "answer": "B"
+    "answer": "D"
   },
   {
     "question": "Câu 84: Sản phẩm trong marketing phải bao gồm những đặc trưng sau, ngoại trừ",
@@ -1955,7 +1955,7 @@
         "text": "Bão hoà"
       }
     ],
-    "answer": "D"
+    "answer": "C"
   },
   {
     "question": "Câu 90: Doanh nghiệp có thể phải tăng giá khi phải đối mặt với những vấn đề sau đây",
